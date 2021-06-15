@@ -15,8 +15,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK//MAMSDK/Release//21.3.2/AWSDK.xcframework.zip", checksum:"fd4b9f92a78b6e2c336f1b29b3407c7104233161b081ff576e1b4037f41ebcd0")
+        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/21.6.0/AWSDK.xcframework.zip", checksum:"f7f14ab5497fbef2b1c709f3153cdd04172699d9f94e1ce22dc883b7bbda6c54")
     ]
 )
-
 
