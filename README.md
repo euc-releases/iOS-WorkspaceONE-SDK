@@ -1,29 +1,60 @@
-# License
-By integrating or downloading the software development kit (SDK) you accept 
-the VMware Workspace ONE SDK License Agreement that is posted here
-https://code.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf
+# Workspace ONE Software Development Kit Swift Package
+This repository contains the Swift package description for the Workspace ONE
+software development kit (SDK) for iOS. You can integrate the SDK into your app
+using Swift package manager in Xcode.
+
+# Agreement
+Before downloading, installing or using the VMware Workspace ONE SDK you must:
+
+1.  Review the
+    [VMware Workspace ONE Software Development Kit License Agreement](https://code.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf).
+    By downloading, installing, or using the VMware Workspace ONE SDK you agree
+    to these license terms.  If you disagree with any of the terms, then do not
+    use the software.
+
+2.  Review the
+    [VMware Privacy Notice](https://www.vmware.com/help/privacy.html)
+    and the
+    [Workspace ONE UEM Privacy Disclosure](https://www.vmware.com/help/privacy/uem-privacy-disclosure.html),
+    for information on applicable privacy policies.
+
 This applies however you obtain the software.
 
-# iOS-WorkspaceONE-SDK
-Congratulations on downloading the VMware Workspace ONE Software Development
-Kit (SDK) for iOS.
+# Application Integration
+To integrate the SDK into your app, proceed as follows.
 
-The Frameworks-Xcode/ directory contains a set of frameworks for use with
-Xcode. The frameworks are compatible with all versions of Xcode that are
-supported by this version of the SDK. Some previous versions of the SDK were
-packaged as multiple framework sets, each set being compatible with only one
-version of Xcode.
-  
-## Requirements
+1.  Open your app project in Xcode.
 
-- iOS 12.0+ 
-- Xcode 12
+2.  Navigate to File, Swift Packages, Add Package Dependency...
 
-## Integration
+    This opens the Choose Package Repository screen.
 
-#### Swift Package Manager
+3.  Enter the address of this repository
+    `https://github.com/vmwareairwatchsdk/iOS-WorkspaceONE-SDK` and click Next.
 
-You can use [The Swift Package Manager](https://swift.org/package-manager) to install `WorkspaceONESDK` by adding the proper description to your `Package.swift` file:
+    This opens the Choose Package Options screen.
+
+4.  Select the rule Branch, leave the default value for branch name, and click
+    Next.
+
+    Xcode will resolve the package dependency, which might take some time.
+
+    When resolution finishes, an Add Package screen opens.
+
+5.  Select to add the AWSDK package product to your app target and click Finish.
+
+The SDK has now been added to your application project. You can start the
+integration work. See the developer documentation.
+
+# Developer Documentation
+Full instructions for integrating your app with the Workspace ONE SDK for iOS are
+available on the code.vmware.com website. See:
+[https://code.vmware.com/web/sdk/Native/airwatch-ios](https://code.vmware.com/web/sdk/Native/airwatch-ios)
+
+# Other Integration
+The SDK can also be integrated into products other than applications, such as
+frameworks and libraries. Add code like the following to your `Package.swift`
+file.
 
 ```swift
 // swift-tools-version:5.3
@@ -32,12 +63,22 @@ import PackageDescription
 let package = Package(
     name: "YOUR_PROJECT_NAME",
     dependencies: [
-        .package(url: "https://github.com/vmwareairwatchsdk/iOS-WorkspaceONE-SDK.git", from: "21.7.0"),
+        .package(url: "https://github.com/vmwareairwatchsdk/iOS-WorkspaceONE-SDK.git", from: "21.9.0"),
     ]
 )
 ```
-Then run `swift build` whenever you get prepared.
 
-## Developer documentation
-Documentation for the SDK is available on the code.vmware.com
-website. See: https://code.vmware.com/web/sdk/Native/airwatch-ios.
+Build your product in the usual way, for example by running the `swift` `build`
+command.
+
+# Legal
+-   **VMware, Inc.** 3401 Hillview Avenue Palo Alto CA 94304 USA
+    Tel 877-486-9273 Fax 650-427-5001 www.vmware.com
+-   Copyright © 2021 VMware, Inc. All rights reserved.
+-   This content is protected by U.S. and international copyright and
+    intellectual property laws. VMware products are covered by one
+    or more patents listed at
+    [https://www.vmware.com/go/patents](https://www.vmware.com/go/patents).
+    VMware is a registered trademark or trademark of VMware, Inc. and its
+    subsidiaries in the United States and other jurisdictions. All other marks
+    and names mentioned herein may be trademarks of their respective companies.

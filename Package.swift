@@ -1,5 +1,15 @@
 // swift-tools-version:5.3
 
+//
+//  Package.swift
+//  WorkspaceOneSDK
+//
+//  Copyright © 2021 VMware, Inc. All rights reserved. This product is protected
+//  by copyright and intellectual property laws in the United States and other
+//  countries as well as by international treaties. VMware products are covered
+//  by one or more patents listed at http://www.vmware.com/go/patents.
+//
+
 import PackageDescription
 
 let package = Package(
@@ -11,7 +21,7 @@ let package = Package(
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/21.8.1/AWSDK.xcframework.zip", checksum:"45c3606779e7d04b27c7b909941ae173bd94f0d74b533a2f604b3adbc5ff710b")
+        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/21.9.0/AWSDK.xcframework.zip", checksum:"b5e2f4f5ff6812ddf13fa245fe10d16273cdcc79581d15095b78edd7de0bc8e7")
     ]
 )
 

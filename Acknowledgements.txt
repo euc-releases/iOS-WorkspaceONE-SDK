@@ -1,5 +1,4 @@
-Workspace ONE SDK for iOS 21.8 GA
-
+Workspace ONE SDK for iOS 21.9 GA
 ======================================================================
 
 The following copyright statements and licenses apply to various open
@@ -48,7 +47,7 @@ SECTION 2: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
 APPENDIX. Standard License Files
 
    >>> Apache License, V2.0
-
+   
    
    
 -------------------- SECTION 1: Apache License, V2.0 --------------------
@@ -4121,4 +4120,4 @@ Source Files is valid for three years from the date you acquired this
 Software product. Alternatively, the Source Files may accompany the
 VMware product.
 
-[AWIOSSDK218GAPS081321]
+[AWIOSSDK2190GAPS092921]
