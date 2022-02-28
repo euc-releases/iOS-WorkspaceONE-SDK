@@ -7,7 +7,7 @@ using Swift package manager in Xcode.
 Before downloading, installing or using the VMware Workspace ONE SDK you must:
 
 1.  Review the
-    [VMware Workspace ONE Software Development Kit License Agreement](https://code.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf).
+    [VMware Workspace ONE Software Development Kit License Agreement](https://developer.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf).
     By downloading, installing, or using the VMware Workspace ONE SDK you agree
     to these license terms.  If you disagree with any of the terms, then do not
     use the software.
@@ -48,8 +48,8 @@ integration work. See the developer documentation.
 
 # Developer Documentation
 Full instructions for integrating your app with the Workspace ONE SDK for iOS are
-available on the code.vmware.com website. See:
-[https://code.vmware.com/web/sdk/Native/airwatch-ios](https://code.vmware.com/web/sdk/Native/airwatch-ios)
+available on the developer.vmware.com website. See:
+[https://developer.vmware.com/web/sdk/Native/airwatch-ios](https://developer.vmware.com/web/sdk/Native/airwatch-ios)
 
 # Other Integration
 The SDK can also be integrated into products other than applications, such as
