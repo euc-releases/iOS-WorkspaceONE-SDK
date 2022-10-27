@@ -1,4 +1,4 @@
-VMware Workspace ONE SDK for iOS 22.9 GA
+Workspace ONE SDK for iOS 22.10 GA
 ======================================================================
 
 The following copyright statements and licenses apply to various open
@@ -26,12 +26,12 @@ of the license associated with each component.
 SECTION 1: Apache License, V2.0
 
    >>> gson-2.4
-   >>> AppAuth-1.4
    >>> swift-protobuf-1.14
-   >>> GoogleAPIClientForREST-1.5.1
-   >>> GTMAppAuth-1.2.2
-   >>> gtm-session-fetcher-1.7.0
-   >>> GoogleSignIn-6.0.1
+   >>> GoogleSignIn-6.1.0
+   >>> AppAuth-1.6.0
+   >>> GoogleAPIClientForREST-2.0.1
+   >>> GTMAppAuth-1.3.1
+   >>> gtm-session-fetcher-1.7.2
 
 SECTION 2: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES
 
@@ -72,7 +72,62 @@ APPENDIX. Standard License Files
        limitations under the License.
 
 
-   >>> AppAuth-1.4
+   >>> swift-protobuf-1.14
+
+       License: Apache 2.0
+
+
+   >>> GoogleSignIn-6.1.0
+
+       > Apache2.0
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/GIDAuthentication.m
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/GIDAuthentication_Private.h
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/GIDMDMPasscodeCache.h
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/GIDScopes.m
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/GIDSignIn_Private.h
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Sources/Public/GoogleSignIn/GoogleSignIn.h
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Tests/Unit/GIDSignInButtonTest.m
+
+       Copyright 2021 Google LLC
+
+
+       GoogleSignIn-iOS-6.1.0/GoogleSignIn/Tests/Unit/OIDTokenRequest+Testing.m
+
+       Copyright 2021 Google LLC
+
+
+
+   >>> AppAuth-1.6.0
 
        @file AppAuth.h
            @brief AppAuth iOS SDK
@@ -95,535 +150,960 @@ APPENDIX. Standard License Files
 
        > Apache2.0
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.h
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Example_Extension/TodayViewController.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.m
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Example_Extension/TodayViewController.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.h
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC-Carthage/Source/main.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC-Carthage/Source/main.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Source/AppDelegate.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Example-iOS_ObjC_Extension/TodayViewController.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Source/AppDelegate.m
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Example-iOS_ObjC_Extension/TodayViewController.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Source/main.m
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_ObjC/Tests/AppAuthExampleTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Source/AppDelegate.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Source/AppDelegate.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Source/main.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_ObjC/Tests/AppAuthExampleTests.m
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_Swift-Carthage/Source/AppAuthExampleViewController.swift
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright (c) 2017 The AppAuth Authors.
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_Swift-Carthage/Example_Extension/TodayViewController.swift
 
-       AppAuth-iOS-1.4.0/Examples/Example-iOS_Swift-Carthage/Source/AppDelegate.swift
+       Copyright (c) 2017 The AppAuth Authors
 
-       Copyright (c) 2017 The AppAuth Authors.
+       See SECTION 10 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Source/AppAuthExampleViewController.h
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_Swift-Carthage/Source/AppAuthExampleViewController.swift
 
-       Copyright 2016 Google Inc.
+       Copyright (c) 2017 The AppAuth Authors
 
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Source/AppAuthExampleViewController.m
+       See SECTION 10 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 Google Inc.
+       AppAuth-iOS-1.6.0/Examples/Example-iOS_Swift-Carthage/Source/AppDelegate.swift
 
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Source/AppDelegate.h
+       Copyright (c) 2017 The AppAuth Authors
 
-       Copyright 2016 Google Inc.
+       See SECTION 10 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Source/AppDelegate.m
-
-       Copyright 2016 Google Inc.
-
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Source/main.m
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Source/AppAuthExampleViewController.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Examples/Example-macOS/Tests/AppAuthExampleTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Source/AppAuthExampleViewController.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Source/AppDelegate.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Source/AppDelegate.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Source/main.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-macOS/Tests/AppAuthExampleTests.m
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationRequest.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationRequest.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationResponse.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationResponse.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationService.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthorizationService.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthStateChangeDelegate.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthStateErrorDelegate.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthState.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDAuthState.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDClientMetadataParameters.h
-
-       Copyright 2016 The AppAuth for
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDClientMetadataParameters.m
-
-       Copyright 2016 The AppAuth for
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDDefines.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDEndSessionRequest.h
-
-       Copyright 2017 The AppAuth Authors.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDEndSessionRequest.m
-
-       Copyright 2017 The AppAuth Authors.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDEndSessionResponse.h
-
-       Copyright 2017 The AppAuth Authors.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDEndSessionResponse.m
-
-       Copyright 2017 The AppAuth Authors.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDError.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDError.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDErrorUtilities.h
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDErrorUtilities.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDExternalUserAgent.h
+       AppAuth-iOS-1.6.0/Examples/Example-tvOS/Example-tvOS/AppAuthTVExampleViewController.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDExternalUserAgentRequest.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2017 The AppAuth Authors.
+       AppAuth-iOS-1.6.0/Examples/Example-tvOS/Example-tvOS/AppAuthTVExampleViewController.m
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDExternalUserAgentSession.h
+       Copyright 2016 Google Inc.
 
-       Copyright 2017 The AppAuth Authors.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDFieldMapping.h
+       AppAuth-iOS-1.6.0/Examples/Example-tvOS/Example-tvOS/AppDelegate.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 14 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-tvOS/Example-tvOS/AppDelegate.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 14 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Examples/Example-tvOS/Example-tvOS/main.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 14 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Package.swift
+
+       Copyright 2020 The AppAuth Authors
+
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDFieldMapping.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationRequest.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDGrantTypes.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationRequest.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDGrantTypes.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationResponse.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDIDToken.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationResponse.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationService.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthorizationService.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthStateChangeDelegate.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthStateErrorDelegate.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthState.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDAuthState.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDClientMetadataParameters.h
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDClientMetadataParameters.m
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDDefines.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDEndSessionRequest.h
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDEndSessionRequest.m
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDEndSessionResponse.h
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDEndSessionResponse.m
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDError.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDError.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDErrorUtilities.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDErrorUtilities.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDExternalUserAgent.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDExternalUserAgentRequest.h
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 16 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDExternalUserAgentSession.h
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDFieldMapping.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDFieldMapping.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDGrantTypes.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDGrantTypes.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDIDToken.h
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDIDToken.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDIDToken.m
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDRegistrationRequest.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 The AppAuth for
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDRegistrationRequest.h
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDRegistrationRequest.m
+       Copyright 2016 The AppAuth for iOS Authors
 
-       Copyright 2016 The AppAuth for
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDRegistrationResponse.h
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDRegistrationRequest.m
 
-       Copyright 2016 The AppAuth for
+       Copyright 2016 The AppAuth for iOS Authors
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDRegistrationResponse.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 The AppAuth for
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDRegistrationResponse.h
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDResponseTypes.h
+       Copyright 2016 The AppAuth for iOS Authors
 
-       Copyright 2015 Google Inc.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDResponseTypes.m
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDRegistrationResponse.m
 
-       Copyright 2015 Google Inc.
+       Copyright 2016 The AppAuth for iOS Authors
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDScopes.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDScopes.m
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDResponseTypes.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDScopeUtilities.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDResponseTypes.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDScopeUtilities.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDScopes.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDServiceConfiguration.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDScopes.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDServiceConfiguration.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDScopeUtilities.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDServiceDiscovery.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDScopeUtilities.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDServiceDiscovery.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDServiceConfiguration.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenRequest.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDServiceConfiguration.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenRequest.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDServiceDiscovery.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenResponse.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDServiceDiscovery.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenResponse.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenRequest.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenUtilities.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenRequest.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDTokenUtilities.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenResponse.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDURLQueryComponent.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenResponse.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDURLQueryComponent.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenUtilities.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDURLSessionProvider.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDTokenUtilities.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuthCore/OIDURLSessionProvider.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDURLQueryComponent.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDURLQueryComponent.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDAuthorizationService+IOS.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDURLSessionProvider.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 13 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthCore/OIDURLSessionProvider.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 13 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDAuthorizationService+IOS.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDAuthorizationService+IOS.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDAuthorizationService+IOS.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDAuthState+IOS.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDAuthState+IOS.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDAuthState+IOS.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDAuthState+IOS.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2019 The AppAuth Authors.
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentCatalyst.m
+       Copyright 2019 The AppAuth Authors
 
-       Copyright 2019 The AppAuth Authors.
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.h
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentCatalyst.m
+
+       Copyright 2019 The AppAuth Authors
+
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.h
 
        Copyright 2018 Google LLC
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.m
 
        Copyright 2018 Google LLC
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentIOS.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentIOS.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/iOS/OIDExternalUserAgentIOS.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/iOS/OIDExternalUserAgentIOS.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 The AppAuth Authors.
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.m
+       Copyright 2016 The AppAuth Authors
 
-       Copyright 2016 The AppAuth Authors.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDAuthorizationService+Mac.h
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.m
 
-       Copyright 2016 Google Inc.
+       Copyright 2016 The AppAuth Authors
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDAuthorizationService+Mac.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 Google Inc.
-
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDAuthState+Mac.h
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDAuthorizationService+Mac.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDAuthState+Mac.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDAuthorizationService+Mac.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDExternalUserAgentMac.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDAuthState+Mac.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDExternalUserAgentMac.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDAuthState+Mac.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDRedirectHTTPHandler.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDExternalUserAgentMac.h
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/AppAuth/macOS/OIDRedirectHTTPHandler.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDExternalUserAgentMac.m
 
        Copyright 2016 Google Inc.
 
-       AppAuth-iOS-1.4.0/Source/CoreFramework/AppAuthCore.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2018 The AppAuth Authors.
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDRedirectHTTPHandler.h
 
-       AppAuth-iOS-1.4.0/Source/Framework/AppAuth.h
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuth/macOS/OIDRedirectHTTPHandler.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV.h
+
+       Copyright 2020 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationRequest.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationRequest.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationResponse.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationResponse.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationService.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVAuthorizationService.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVServiceConfiguration.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVServiceConfiguration.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVTokenRequest.h
+
+       Copyright 2020 Google Inc.
+
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/AppAuthTV/OIDTVTokenRequest.m
+
+       Copyright 2020 Google Inc.
+
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/CoreFramework/AppAuthCore.h
+
+       Copyright 2018 The AppAuth Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/Source/Framework/AppAuth.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAppAuthTests-Bridging-Header.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2017 The AppAuth for
+       AppAuth-iOS-1.6.0/Source/TVFramework/AppAuthTV.h
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthorizationRequestTests.h
+       Copyright 2020 Google Inc.
 
-       Copyright 2015 Google Inc.
+       See SECTION 15 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthorizationRequestTests.m
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVAuthorizationRequestTests.h
 
-       Copyright 2015 Google Inc.
+       Copyright 2020 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthorizationResponseTests.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2015 Google Inc.
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVAuthorizationRequestTests.m
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthorizationResponseTests.m
+       Copyright 2020 Google Inc.
 
-       Copyright 2015 Google Inc.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthStateTests.h
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVAuthorizationResponseTests.h
 
-       Copyright 2015 Google Inc.
+       Copyright 2020 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDAuthStateTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2015 Google Inc.
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVAuthorizationResponseTests.m
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDEndSessionRequestTests.h
+       Copyright 2020 Google Inc.
 
-       Copyright 2017 The AppAuth Authors.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDEndSessionRequestTests.m
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVTokenRequestTests.h
 
-       Copyright 2017 The AppAuth Authors.
+       Copyright 2020 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDGrantTypesTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2015 Google Inc.
+       AppAuth-iOS-1.6.0/UnitTests/AppAuthTV/OIDTVTokenRequestTests.m
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDRegistrationRequestTests.h
+       Copyright 2020 Google Inc.
 
-       Copyright 2016 The AppAuth for
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDRegistrationRequestTests.m
+       AppAuth-iOS-1.6.0/UnitTests/OIDAppAuthTests-Bridging-Header.h
 
-       Copyright 2016 The AppAuth for
+       Copyright 2017 The AppAuth for iOS Authors
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDRegistrationResponseTests.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2016 The AppAuth for
-
-       AppAuth-iOS-1.4.0/UnitTests/OIDRegistrationResponseTests.m
-
-       Copyright 2016 The AppAuth for
-
-       AppAuth-iOS-1.4.0/UnitTests/OIDResponseTypesTests.m
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthorizationRequestTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDRPProfileCode.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthorizationRequestTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthorizationResponseTests.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthorizationResponseTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthStateTests.h
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDAuthStateTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDEndSessionRequestTests.h
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDEndSessionRequestTests.m
+
+       Copyright 2017 The AppAuth Authors
+
+       See SECTION 12 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDGrantTypesTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRegistrationRequestTests.h
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRegistrationRequestTests.m
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRegistrationResponseTests.h
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRegistrationResponseTests.m
+
+       Copyright 2016 The AppAuth for iOS Authors
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDResponseTypesTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRPProfileCode.h
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDRPProfileCode.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDRPProfileCode.m
 
        Copyright 2017 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDScopesTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDScopesTests.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDServiceConfigurationTests.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDServiceConfigurationTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDServiceConfigurationTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDServiceConfigurationTests.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDServiceDiscoveryTests.h
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDServiceDiscoveryTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDServiceDiscoveryTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDServiceDiscoveryTests.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDSwiftTests.swift
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2017 The AppAuth for
+       AppAuth-iOS-1.6.0/UnitTests/OIDSwiftTests.swift
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDTokenRequestTests.h
+       Copyright 2017 The AppAuth for iOS Authors
 
-       Copyright 2015 Google Inc.
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDTokenRequestTests.m
-
-       Copyright 2015 Google Inc.
-
-       AppAuth-iOS-1.4.0/UnitTests/OIDTokenResponseTests.h
+       AppAuth-iOS-1.6.0/UnitTests/OIDTokenRequestTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDTokenResponseTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDTokenRequestTests.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDTokenUtilitiesTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-       Copyright 2018 The AppAuth for
-
-       AppAuth-iOS-1.4.0/UnitTests/OIDURLQueryComponentTests.h
+       AppAuth-iOS-1.6.0/UnitTests/OIDTokenResponseTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDURLQueryComponentTestsIOS7.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDTokenResponseTests.m
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDURLQueryComponentTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDTokenUtilitiesTests.m
+
+       Copyright 2018 The AppAuth for iOS Authors
+
+       See SECTION 9 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDURLQueryComponentTests.h
 
        Copyright 2015 Google Inc.
 
-       AppAuth-iOS-1.4.0/UnitTests/OIDURLSessionProviderTests.m
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDURLQueryComponentTestsIOS7.m
 
        Copyright 2015 Google Inc.
 
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
 
-   >>> swift-protobuf-1.14
+       AppAuth-iOS-1.6.0/UnitTests/OIDURLQueryComponentTests.m
 
-       License: Apache 2.0
+       Copyright 2015 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       AppAuth-iOS-1.6.0/UnitTests/OIDURLSessionProviderTests.m
+
+       Copyright 2015 Google Inc.
+
+       See SECTION 13 in 'LICENSE TEXT REFERENCE TABLE'
 
 
-   >>> GoogleAPIClientForREST-1.5.1
+   >>> GoogleAPIClientForREST-2.0.1
 
-       Found in: google-api-objectivec-client-for-rest/Source/Tests/GTLRObjectTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       Licensed under the Apache License, Version 2.0 (the "License");
+       /* Copyright (c) 2012 Google Inc.
+        *
+        * Licensed under the Apache License, Version 2.0 (the "License");
         * you may not use this file except in compliance with the License.
         * You may obtain a copy of the License at
         *
@@ -639,994 +1119,835 @@ APPENDIX. Standard License Files
 
        > Apache2.0
 
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/CalendarSampleAppController.h
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/CalendarSampleAppController.h
 
        Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/CalendarSampleAppController.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/CalendarSampleWindowController.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/CalendarSampleWindowController.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/EditACLWindowController.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/EditACLWindowController.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/EditEventWindowController.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/EditEventWindowController.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/CalendarSample/main.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/DriveSample/DriveSampleAppController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/DriveSample/DriveSampleAppController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/DriveSample/DriveSampleWindowController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/DriveSample/DriveSampleWindowController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/DriveSample/main.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/StorageSample/main.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/StorageSample/StorageSampleAppController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/StorageSample/StorageSampleAppController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/StorageSample/StorageSampleWindowController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/StorageSample/StorageSampleWindowController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/YouTubeSample/main.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/YouTubeSample/YouTubeSampleAppController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/YouTubeSample/YouTubeSampleAppController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/YouTubeSample/YouTubeSampleWindowController.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Examples/YouTubeSample/YouTubeSampleWindowController.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/GTLRDefines.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRBatchQuery.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRBatchQuery.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRBatchResult.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRBatchResult.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRDateTime.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRDateTime.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRDuration.h
-
-       Copyright (c) 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRDuration.m
-
-       Copyright (c) 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRErrorObject.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRErrorObject.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRObject.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRObject.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRQuery.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRQuery.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRRuntimeCommon.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRRuntimeCommon.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRService.h
-
-       Copyright (c) 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRService.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRUploadParameters.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Objects/GTLRUploadParameters.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRBase64Test.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRDateTimeTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRDurationTest.m
-
-       Copyright (c) 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRErrorObjectTest.m
-
-       Copyright (c) 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRFrameworkTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRQueryTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRServiceTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRURITemplateTest.m
-
-       Copyright (c) 2010 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/GTLRUtilitiesTest.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tests/main.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/ServiceGenerator/SGGenerator.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/ServiceGenerator/SGGenerator.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/ServiceGenerator/SGMain.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/ServiceGenerator/SGUtils.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/ServiceGenerator/SGUtils.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Tools/update_podspec_services.py
-
-       Copyright 2016 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRBase64.h
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRBase64.m
-
-       Copyright (c) 2012 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRFramework.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRFramework.m
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRURITemplate.h
-
-       Copyright (c) 2010 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRURITemplate.m
-
-       Copyright (c) 2010 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRUtilities.h
-
-       Copyright (c) 2011 Google Inc.
-
-       google-api-objectivec-client-for-rest/Source/Utilities/GTLRUtilities.m
-
-       Copyright (c) 2011 Google Inc.
-
-
-   >>> GTMAppAuth-1.2.2
-
-       > Apache2.0
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/Examples/Example-iOS/Source/AppDelegate.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/Examples/Example-iOS/Source/GTMAppAuthExampleViewController.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/Examples/Example-macOS/Source/GTMAppAuthExampleViewController.h
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/Examples/Example-macOS/Source/GTMAppAuthExampleViewController.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/Examples/Example-macOS/Source/main.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/GTMAppAuth/Sources/GTMAppAuthFetcherAuthorization.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/GTMAppAuth/Sources/GTMOAuth2KeychainCompatibility.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/GTMAppAuth/Sources/iOS/GTMKeychain_iOS.m
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/GTMAppAuth/Sources/Public/GTMAppAuth/GTMAppAuthFetcherAuthorization+Keychain.h
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-       GTMAppAuth-40f4103fb52109032c05599a0c39ad43edbdf80a/GTMAppAuth/Sources/Public/GTMAppAuth/GTMKeychain.h
-
-       copyright
-               Copyright 2016 Google Inc.
-
-
-
-   >>> gtm-session-fetcher-1.7.0
-
-       Found in: gtm-session-fetcher/Source/UnitTests/GTMMIMEDocumentTest.m
-
-       Copyright 2014 Google Inc.
-
-       Licensed under the Apache License, Version 2.0 (the "License");
-        * you may not use this file except in compliance with the License.
-        * You may obtain a copy of the License at
-        *
-        * http://www.apache.org/licenses/LICENSE-2.0
-        *
-        * Unless required by applicable law or agreed to in writing, software
-        * distributed under the License is distributed on an "AS IS" BASIS,
-        * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-        * See the License for the specific language governing permissions and
-        * limitations under the License.
-
-
-   >>> GoogleSignIn-6.0.1
-
-       > Apache2.0
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDAuthentication.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDAuthentication_Private.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDAuthStateMigration.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDAuthStateMigration.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDCallbackQueue.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDCallbackQueue.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDConfiguration.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDEMMErrorHandler.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDEMMErrorHandler.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDGoogleUser.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDGoogleUser_Private.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDMDMPasscodeCache.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDMDMPasscodeCache.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDMDMPasscodeState.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDMDMPasscodeState.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDMDMPasscodeState_Private.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDProfileData.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDProfileData_Private.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDScopes.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDScopes.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInButton.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInCallbackSchemes.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInCallbackSchemes.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInInternalOptions.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInInternalOptions.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignIn.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInPreferences.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInPreferences.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignIn_Private.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInStrings.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/GIDSignInStrings.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/NSBundle+GID3PAdditions.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/NSBundle+GID3PAdditions.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDAuthentication.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDGoogleUser.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInButton.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Public/GoogleSignIn/GoogleSignIn.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/GoogleSignIn/Sources/Resources/Roboto-Bold.ttf
-
-       Font data copyright Google 2014RobotoBoldGoogle:Roboto:2014Roboto BoldVersion
 
        See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDAuthentication+Testing.h
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/CalendarSampleAppController.m
 
-       Copyright 2021 Google LLC
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/CalendarSampleWindowController.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/CalendarSampleWindowController.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/EditACLWindowController.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/EditACLWindowController.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/EditEventWindowController.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/EditEventWindowController.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/CalendarSample/main.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/DriveSample/DriveSampleAppController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/DriveSample/DriveSampleAppController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/DriveSample/DriveSampleWindowController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/DriveSample/DriveSampleWindowController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/DriveSample/main.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/StorageSample/main.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/StorageSample/StorageSampleAppController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/StorageSample/StorageSampleAppController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/StorageSample/StorageSampleWindowController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/StorageSample/StorageSampleWindowController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/YouTubeSample/main.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/YouTubeSample/YouTubeSampleAppController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/YouTubeSample/YouTubeSampleAppController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/YouTubeSample/YouTubeSampleWindowController.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Examples/YouTubeSample/YouTubeSampleWindowController.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRBase64.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRBatchQuery.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRBatchResult.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRDateTime.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRDefines.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRDuration.m
+
+       Copyright (c) 2016 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRErrorObject.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRFramework.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRObject.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRQuery.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRRuntimeCommon.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRService.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRUploadParameters.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRURITemplate.m
+
+       Copyright (c) 2010 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/GTLRUtilities.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRBase64.h
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRBatchQuery.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRBatchResult.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRDateTime.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRDuration.h
+
+       Copyright (c) 2016 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRErrorObject.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRFramework.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRObject.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRQuery.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRRuntimeCommon.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRService.h
+
+       Copyright (c) 2016 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRUploadParameters.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRURITemplate.h
+
+       Copyright (c) 2010 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Sources/Core/Public/GoogleAPIClientForREST/GTLRUtilities.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/SwiftPMTests/ObjCImportTest/HeadersImportTests.m
+
+       Copyright 2022 Google LLC
+
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/SwiftPMTests/ObjCImportTest/ModuleImportTests.m
+
+       Copyright 2022 Google LLC
+
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/SwiftPMTests/SwiftImportTest/ImportTests.swift
+
+       Copyright 2022 Google LLC
+
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/Public/SGMain.h
+
+       Copyright (c) 2020 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/SGGenerator.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/SGGenerator.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/SGMain.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/SGUtils.h
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/ServiceGenerator/SGUtils.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/SwiftPMShim/main.swift
+
+       Copyright (c) 2020 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/update_podspec_services.py
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/Tools/update_swiftpm_services.py
+
+       Copyright 2020 Google Inc.
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRBase64Test.m
+
+       Copyright (c) 2012 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRDateTimeTest.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRDurationTest.m
+
+       Copyright (c) 2016 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRErrorObjectTest.m
+
+       Copyright (c) 2016 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRFrameworkTest.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRObjectTest.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRQueryTest.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRServiceTest.m
+
+       Copyright (c) 2011 Google Inc.
 
        See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDAuthentication+Testing.m
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRURITemplateTest.m
+
+       Copyright (c) 2010 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       google-api-objectivec-client-for-rest-2.0.1/UnitTests/GTLRUtilitiesTest.m
+
+       Copyright (c) 2011 Google Inc.
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+
+   >>> GTMAppAuth-1.3.1
+
+        Copyright 2016 Google Inc.
+
+               Licensed under the Apache License, Version 2.0 (the "License");
+               you may not use this file except in compliance with the License.
+               You may obtain a copy of the License at
+
+               http://www.apache.org/licenses/LICENSE-2.0
+
+               Unless required by applicable law or agreed to in writing, software
+               distributed under the License is distributed on an "AS IS" BASIS,
+               WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+               See the License for the specific language governing permissions and
+               limitations under the License.
+
+       ADDITIONAL LICENSE INFORMATION
+
+       > Apache2.0
+
+       GTMAppAuth-1.3.1/Examples/Example-iOS/Source/AppDelegate.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-iOS/Source/AppDelegate.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-iOS/Source/GTMAppAuthExampleViewController.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-iOS/Source/GTMAppAuthExampleViewController.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-iOS/Source/main.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-macOS/Source/AppDelegate.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-macOS/Source/AppDelegate.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-macOS/Source/GTMAppAuthExampleViewController.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-macOS/Source/GTMAppAuthExampleViewController.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Examples/Example-macOS/Source/main.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/GTMAppAuthFetcherAuthorization+Keychain.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/GTMAppAuthFetcherAuthorization.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/GTMKeychain.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/GTMOAuth2KeychainCompatibility.m
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/Public/GTMAppAuth/GTMAppAuthFetcherAuthorization.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/Public/GTMAppAuth/GTMAppAuthFetcherAuthorization+Keychain.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/Public/GTMAppAuth/GTMAppAuth.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/Public/GTMAppAuth/GTMKeychain.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/GTMAppAuth/Sources/Public/GTMAppAuth/GTMOAuth2KeychainCompatibility.h
+
+       Copyright 2016 Google Inc.
+
+       See SECTION 11 in 'LICENSE TEXT REFERENCE TABLE'
+
+       GTMAppAuth-1.3.1/Package.swift
 
        Copyright 2021 Google LLC
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDAuthenticationTest.m
 
-       Copyright 2021 Google LLC
+   >>> gtm-session-fetcher-1.7.2
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       > Apache2.0
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDAuthStateMigrationTest.m
+       gtm-session-fetcher-main/Sources/Core/GTMSessionFetcherLogging.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDConfiguration+Testing.h
+       gtm-session-fetcher-main/Sources/Core/GTMSessionFetcher.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDConfiguration+Testing.m
+       gtm-session-fetcher-main/Sources/Core/GTMSessionFetcherService.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDConfigurationTest.m
+       gtm-session-fetcher-main/Sources/Core/GTMSessionUploadFetcher.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDEMMErrorHandlerTest.m
+       gtm-session-fetcher-main/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcher.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeFetcher.h
+       gtm-session-fetcher-main/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherLogging.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeFetcher.m
+       gtm-session-fetcher-main/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherService.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeFetcherService.h
+       gtm-session-fetcher-main/Sources/Core/Public/GTMSessionFetcher/GTMSessionUploadFetcher.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeFetcherService.m
+       gtm-session-fetcher-main/Sources/Full/GTMGatherInputStream.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeMainBundle.h
+       gtm-session-fetcher-main/Sources/Full/GTMMIMEDocument.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDFakeMainBundle.m
+       gtm-session-fetcher-main/Sources/Full/GTMReadMonitorInputStream.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDGoogleUser+Testing.h
+       gtm-session-fetcher-main/Sources/Full/Public/GTMSessionFetcher/GTMGatherInputStream.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDGoogleUser+Testing.m
+       gtm-session-fetcher-main/Sources/Full/Public/GTMSessionFetcher/GTMMIMEDocument.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDGoogleUserTest.m
+       gtm-session-fetcher-main/Sources/Full/Public/GTMSessionFetcher/GTMReadMonitorInputStream.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDMDMPasscodeStateTests.m
+       gtm-session-fetcher-main/Sources/LogView/GTMSessionFetcherLogViewController.m
 
-       Copyright 2021 Google LLC
+       Copyright (c) 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDProfileData+Testing.h
+       gtm-session-fetcher-main/Sources/LogView/Public/GTMSessionFetcher/GTMSessionFetcherLogViewController.h
 
-       Copyright 2021 Google LLC
+       Copyright (c) 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDProfileData+Testing.m
+       gtm-session-fetcher-main/SwiftPMTests/ObjCImportTest/HeadersImportTests.m
 
-       Copyright 2021 Google LLC
+       Copyright 2022 Google LLC
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDProfileDataTest.m
+       gtm-session-fetcher-main/SwiftPMTests/ObjCImportTest/ModuleImportTests.m
 
-       Copyright 2021 Google LLC
+       Copyright 2022 Google LLC
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDScopesTest.m
+       gtm-session-fetcher-main/SwiftPMTests/SwiftImportTest/ImportTests.swift
 
-       Copyright 2021 Google LLC
+       Copyright 2022 Google LLC
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 6 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDSignInButtonTest.m
+       gtm-session-fetcher-main/TestApps/FetcheriOSTestApp/FTAIOSAppDelegate.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDSignInCallbackSchemesTest.m
+       gtm-session-fetcher-main/TestApps/FetcheriOSTestApp/FTAIOSAppDelegate.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDSignInInternalOptionsTest.m
+       gtm-session-fetcher-main/TestApps/FetcheriOSTestApp/main.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/GIDSignInTest.m
+       gtm-session-fetcher-main/TestApps/FetcherOSXTestApp/FTAAppDelegate.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthorizationRequest+Testing.h
+       gtm-session-fetcher-main/TestApps/FetcherOSXTestApp/FTAAppDelegate.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthorizationRequest+Testing.m
+       gtm-session-fetcher-main/TestApps/FetcherOSXTestApp/main.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthorizationResponse+Testing.h
+       gtm-session-fetcher-main/UnitTests/GTMGatherInputStreamTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthorizationResponse+Testing.m
+       gtm-session-fetcher-main/UnitTests/GTMHTTPServer.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthState+Testing.h
+       gtm-session-fetcher-main/UnitTests/GTMHTTPServer.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDAuthState+Testing.m
+       gtm-session-fetcher-main/UnitTests/GTMMIMEDocumentTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDServiceConfiguration+Testing.h
+       gtm-session-fetcher-main/UnitTests/GTMReadMonitorInputStreamTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDServiceConfiguration+Testing.m
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherChunkedUploadTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDTokenRequest+Testing.h
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherCookieTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDTokenRequest+Testing.m
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherFetchingTest.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.h
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherFetchingTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.m
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherServiceTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/Package.swift
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherTestServer.h
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/AppDelegate.h
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherTestServer.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/AppDelegate.m
+       gtm-session-fetcher-main/UnitTests/GTMSessionFetcherUtilityTest.m
 
-       Copyright 2021 Google LLC
+       Copyright 2014 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
 
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/AuthInspectorViewController.h
+       gtm-session-fetcher-main/update_version.py
 
-       Copyright 2021 Google LLC
+       Copyright 2017 Google Inc.
 
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/AuthInspectorViewController.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/DataPickerState.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/DataPickerState.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/DataPickerViewController.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/DataPickerViewController.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/main.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/SignInViewController.h
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/ObjC/SignInSample/Source/SignInViewController.m
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/AuthenticationViewModel.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/BirthdayLoader.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/Birthday.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/BirthdayViewModel.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/BirthdayView.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/ContentView.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/DaysUntilBirthday.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/GoogleSignInAuthenticator.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/GoogleSignInButtonWrapper.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/SignInView.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/UserProfileImageLoader.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/UserProfileImageView.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
-
-       GoogleSignIn-iOS-main/Samples/Swift/DaysUntilBirthday/Sources/UserProfileView.swift
-
-       Copyright 2021 Google LLC
-
-       See SECTION 1 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 3 in 'LICENSE TEXT REFERENCE TABLE'
 
 
 -------------------- SECTION 2: BSD-STYLE, MIT-STYLE, OR SIMILAR STYLE LICENSES --------------------
@@ -3316,139 +3637,139 @@ APPENDIX. Standard License Files
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 3 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 8 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Core/Backup.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Core/Blob.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Core/Connection.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Core/Statement.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Core/Value.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Extensions/FTS4.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Extensions/FTS5.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Extensions/RTree.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Foundation.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Helpers.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLiteObjc/include/SQLiteObjc.h
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLiteObjc/SQLiteObjc.m
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/AggregateFunctions.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Coding.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Collation.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/CoreFunctions.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/DateAndTimeFunctions.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Expression.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Operators.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Query.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Schema.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
        SQLite.swift-master/Sources/SQLite/Typed/Setter.swift
 
        Copyright (c) 2014-2015 Stephen Celis
 
-       See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
+       See SECTION 7 in 'LICENSE TEXT REFERENCE TABLE'
 
 
    >>> SQLCipher-4.5.2
@@ -3690,6 +4011,66 @@ limitations under the License.
 ==================== LICENSE TEXT REFERENCE TABLE ====================
 
 -------------------- SECTION 1 --------------------
+Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+-------------------- SECTION 2 --------------------
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+-------------------- SECTION 3 --------------------
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+-------------------- SECTION 4 --------------------
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-------------------- SECTION 5 --------------------
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+-------------------- SECTION 6 --------------------
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
 // You may obtain a copy of the License at
@@ -3701,7 +4082,7 @@ limitations under the License.
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
--------------------- SECTION 2 --------------------
+-------------------- SECTION 7 --------------------
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
@@ -3719,13 +4100,105 @@ limitations under the License.
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
--------------------- SECTION 3 --------------------
+-------------------- SECTION 8 --------------------
 (The MIT License)
--------------------- SECTION 4 --------------------
-under the Apache License, Version 2.0http://www.apache.org/licenses/LICENSE-2.0
+-------------------- SECTION 9 --------------------
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
 
+ http://www.apache.org/licenses/LICENSE-2.0
 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-------------------- SECTION 10 --------------------
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *  http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+-------------------- SECTION 11 --------------------
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
 
+        http://www.apache.org/licenses/LICENSE-2.0
+
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+-------------------- SECTION 12 --------------------
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
+ 
+        http://www.apache.org/licenses/LICENSE-2.0
+ 
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+-------------------- SECTION 13 --------------------
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-------------------- SECTION 14 --------------------
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+-------------------- SECTION 15 --------------------
+       Licensed under the Apache License, Version 2.0 (the "License");
+       you may not use this file except in compliance with the License.
+       You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+       Unless required by applicable law or agreed to in writing, software
+       distributed under the License is distributed on an "AS IS" BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+       See the License for the specific language governing permissions and
+       limitations under the License.
+-------------------- SECTION 16 --------------------
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
+   
+        http://www.apache.org/licenses/LICENSE-2.0
+   
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+		
+		
+		
 ======================================================================
 
 To the extent any open source components are licensed under the GPL
@@ -3744,4 +4217,4 @@ Source Files is valid for three years from the date you acquired this
 Software product. Alternatively, the Source Files may accompany the
 VMware product.
 
-[AWIOSSDK229GASD090922]
+[AWIOSSDK2210GASD101722]
