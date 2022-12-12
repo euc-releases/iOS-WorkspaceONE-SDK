@@ -1,4 +1,4 @@
-Workspace ONE SDK for iOS 22.10 GA
+Workspace ONE SDK for iOS 22.11 GA
 ======================================================================
 
 The following copyright statements and licenses apply to various open
@@ -4217,4 +4217,4 @@ Source Files is valid for three years from the date you acquired this
 Software product. Alternatively, the Source Files may accompany the
 VMware product.
 
-[AWIOSSDK2210GASD101722]
+[AWIOSSDK2211GASD120622]
