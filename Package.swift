@@ -21,7 +21,7 @@ let package = Package(
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/23.06.0/AWSDK.xcframework.zip", checksum:"8be5362db303bfd569ce9ba6752e86bed132a011a8ae9c7b8db9759158698310")
+        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/23.07.0/AWSDK.xcframework.zip", checksum:"f5c972cbac04de91d022720e2bfa24bc72f901293218345a1438ed35cf6d1dc6")
     ]
 )
 
