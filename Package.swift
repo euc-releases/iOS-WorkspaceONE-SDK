@@ -1,4 +1,4 @@
-// swift-tools-version:5.9
+// swift-tools-version:5.3
 
 //
 //  Package.swift
@@ -14,14 +14,14 @@ import PackageDescription
 
 let package = Package(
     name: "WorkspaceOneSDK",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v12)],
     products: [
         .library(
             name: "AWSDK",
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://vmwaresaas.jfrog.io/artifactory/Workspace-ONE-iOS-SDK/MAMSDK/Release/24.01.2/AWSDK.xcframework.zip", checksum:"f315d4f38ae4694594c5ce506828a330e2c629c6b509239fb557007fd3f3e9bb")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/ws1-mamsdk-ios-binary/releases/download/21.9.0/AWSDK.xcframework.zip", checksum:"b5e2f4f5ff6812ddf13fa245fe10d16273cdcc79581d15095b78edd7de0bc8e7")
     ]
 )
 
