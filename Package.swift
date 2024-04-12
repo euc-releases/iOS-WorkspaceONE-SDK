@@ -4,7 +4,7 @@
 //  Package.swift
 //  WorkspaceOneSDK
 //
-//  Copyright © 2024 VMware, Inc. All rights reserved. This product is protected
+//  Copyright © 2021 VMware, Inc. All rights reserved. This product is protected
 //  by copyright and intellectual property laws in the United States and other
 //  countries as well as by international treaties. VMware products are covered
 //  by one or more patents listed at http://www.vmware.com/go/patents.
@@ -21,7 +21,6 @@ let package = Package(
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/ws1-mamsdk-ios-binary/releases/download/21.9.0/AWSDK.xcframework.zip", checksum:"b5e2f4f5ff6812ddf13fa245fe10d16273cdcc79581d15095b78edd7de0bc8e7")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/ws1-mamsdk-ios-binary/releases/download/21.10.0/AWSDK.xcframework.zip", checksum:"3663b3567cca3b9169699280d0eb021ca8b37c099d1a1e56053e42019354a544")
     ]
 )
-
