@@ -21,6 +21,6 @@ let package = Package(
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/ws1-mamsdk-ios-binary/releases/download/21.10.0/AWSDK.xcframework.zip", checksum:"3663b3567cca3b9169699280d0eb021ca8b37c099d1a1e56053e42019354a544")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/ws1-mamsdk-ios-binary/releases/download/21.11.0/AWSDK.xcframework.zip", checksum:"f902f9966fd72b8e7f54d54433e2976102c78961debcf7db15b997cbd86acc87")
     ]
 )

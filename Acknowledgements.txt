@@ -1,4 +1,4 @@
-Workspace ONE SDK for iOS 21.10 GA
+Workspace ONE SDK for iOS 21.11 GA
 ======================================================================
 
 The following copyright statements and licenses apply to various open
@@ -3108,2828 +3108,6 @@ APPENDIX. Standard License Files
        Copyright 2017-2018 The OpenSSL Project Authors
 
        See SECTION 2 in 'LICENSE TEXT REFERENCE TABLE'
-
-       > Original SSLeay License with Windows Clause
-
-       vmware-OpenSSL_1_0_2za/apps/app_rand.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/apps.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/apps.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/asn1pars.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/ca.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/ciphers.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/crl2p7.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/crl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/dh.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/dhparam.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/dsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/dsaparam.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/errstr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/gendh.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/gendsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/genrsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/openssl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/pkcs7.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/req.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/rsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_apps.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_cb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_client.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/sess_id.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/speed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_server.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_socket.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/s_time.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/testrsa.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/verify.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/version.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/apps/x509.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/bugs/alpha.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/bugs/stream.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bitstr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bool.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bytes.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_d2i_fp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_digest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_dup.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_enum.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_gentm.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_i2d_fp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_int.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_object.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_octet.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_print.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_set.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_mac.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_par.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_type.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_utctm.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_utf8.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/a_verify.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/d2i_pr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/d2i_pu.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/evp_asn1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/f_enum.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/f_int.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/f_string.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/i2d_pr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/i2d_pu.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/n_pkey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/t_pkey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/t_req.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/t_x509.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_attrib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_crl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_info.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_name.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_pkey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_pubkey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_req.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_sig.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_spki.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_val.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/asn1/x_x509.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_cbc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_cfb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_ecb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_locl.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_ofb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_opts.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_pi.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bf_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bfspeed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/bftest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bf/blowfish.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/b_dump.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bf_buff.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bf_lbuf.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bf_nbio.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bf_null.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bio_cb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bio.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bio_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/b_print.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/b_sock.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_acpt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_conn.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_fd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_file.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_mem.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_null.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_rtcp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bio/bss_sock.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_add.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_asm.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_blind.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_div.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_exp2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_exp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_gcd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_lcl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mod.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mont.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mpi.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mul.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.pl
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_print.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_rand.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_recp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_shift.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bnspeed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_sqr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bntest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/bn_word.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/expspeed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/bn/exptest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/buffer/buffer.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/buffer/buffer.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/buffer/buf_str.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/cast.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/cast_lcl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/castopts.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/cast_s.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/cast_spd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/casttest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/c_cfb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/c_ecb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/c_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/c_ofb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cast/c_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/cnf_save.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/conf_api.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/conf_api.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/conf_def.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/conf_def.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/conf.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/keysets.pl
-
-       Copyright (c) 1995-1998 Eric Young (eay cryptsoft.com)
-
-       See SECTION 50 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/conf/test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/constant_time_locl.h
-
-       Copyright (c) 2014-2019 The OpenSSL Project
-
-       See SECTION 24 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/constant_time_test.c
-
-       Copyright (c) 2014 The OpenSSL Project
-
-       See SECTION 24 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cryptlib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cryptlib.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/crypto.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/cversion.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cbc3_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cbc_cksm.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cbc_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cfb64ede.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cfb64enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/cfb_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des_locl.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des_opts.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/destest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/des_ver.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ecb3_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ecb_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/enc_read.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/enc_writ.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/fcrypt_b.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ncbc_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ofb64ede.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ofb64enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/ofb_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/pcbc_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/qud_cksm.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/read_pwd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/rpc_des.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/rpc_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/rpw.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/set_key.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/speed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/spr.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/str2key.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/des/xcbc_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh_check.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh_gen.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh_key.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dh_prn.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/dhtest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/p1024.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/p192.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dh/p512.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_gen.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsagen.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_key.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_ossl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsatest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_vrf.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/err/err_all.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/err/err.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/err/err.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/err/err_prn.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/bio_b64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/bio_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/bio_md.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/bio_ok.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/c_all.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/c_allc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/c_alld.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/digest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_bf.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_cast.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_des3.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_des.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_dsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_idea.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/encode.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_null.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc4.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc5.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/evp_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/evp.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/evp_key.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/evp_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/e_xcbc_d.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_dss1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_dss.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_md2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_md4.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_md5.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_mdc2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_null.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_ripemd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_sha1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/m_sha.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/names.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_dec.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_open.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_seal.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/evp/p_verify.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ex_data.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/hmac/hmac.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/hmac/hmac.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/hmac/hmactest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/i_cbc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 40 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/i_cfb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/idea.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/idea_lcl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/idea_spd.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/ideatest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/i_ecb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/i_ofb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/idea/i_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/lhash/lhash.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/lhash/lhash.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/lhash/lh_stats.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/lhash/lh_test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md2/md2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md2/md2_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md2/md2.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md2/md2_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md2/md2test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md4/md4test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/md5/md5test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mem.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/mem_dbg.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.pl
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/objects.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/objects.pl
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/obj_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/objects/obj_mac.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_all.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_info.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_oth.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_pk8.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_pkey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_seal.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pem/pem_sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_doit.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pkcs7.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/md_rand.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/randfile.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand_lcl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand_nw.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/randtest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand_unix.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rand/rand_win.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_cbc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2cfb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_ecb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2ofb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2speed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4.h
-
-       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4speed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5cfb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_ecb.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5ofb64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_skey.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5speed.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/ripemd.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd160.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmdconst.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmdtest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_crpt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_eay.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_gen.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_none.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_pk1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_saos.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_ssl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha1dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha1_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha1test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha_dgst.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/sha_one.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/sha/shatest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/stack/stack.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/stack/stack.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/threads/mttest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/threads/th-lock.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/txt_db/txt_db.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/txt_db/txt_db.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/ui/ui_openssl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/by_dir.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/by_file.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_att.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_cmp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_d2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_def.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_ext.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_lu.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509name.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_obj.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_r2x.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_req.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509rset.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_set.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_txt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509type.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_v3.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_vfy.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x509_vfy.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/crypto/x509/x_all.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/demos/b64.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/demos/prime/prime.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/demos/sign/sign.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/e_os.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/bio_ssl.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/d1_both.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/d1_clnt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/d1_pkt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/d1_srtp.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/d1_srvr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s23_clnt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s23_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s23_meth.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s23_pkt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s23_srvr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_clnt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_meth.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_pkt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s2_srvr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_both.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_clnt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_meth.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_pkt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/s3_srvr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/srtp.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl23.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl2.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl3.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_algs.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_asn1.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_cert.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_ciph.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_err2.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_locl.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_rsa.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_sess.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_stat.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_task.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssltest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/ssl_txt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_clnt.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_enc.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_lib.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_meth.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_reneg.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/t1_srvr.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/ssl/tls1.h
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/test/methtest.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/test/r160test.c
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
-
-       vmware-OpenSSL_1_0_2za/util/add_cr.pl
-
-       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
-
-       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
 
        > OpenSSL License
 
@@ -9149,6 +6327,2828 @@ APPENDIX. Standard License Files
 
        See SECTION 35 in 'LICENSE TEXT REFERENCE TABLE'
 
+       > Original SSLeay License with Windows Clause
+
+       vmware-OpenSSL_1_0_2za/apps/app_rand.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/apps.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/apps.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/asn1pars.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/ca.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/ciphers.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/crl2p7.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/crl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/dh.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/dhparam.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/dsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/dsaparam.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/errstr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/gendh.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/gendsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/genrsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/openssl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/pkcs7.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/req.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/rsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_apps.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_cb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_client.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/sess_id.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/speed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_server.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_socket.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/s_time.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/testrsa.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/verify.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/version.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/apps/x509.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/bugs/alpha.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/bugs/stream.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bitstr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bool.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_bytes.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_d2i_fp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_digest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_dup.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_enum.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_gentm.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_i2d_fp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_int.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_object.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_octet.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_print.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_set.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_mac.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/asn1_par.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_type.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_utctm.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_utf8.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/a_verify.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/d2i_pr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/d2i_pu.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/evp_asn1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/f_enum.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/f_int.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/f_string.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/i2d_pr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/i2d_pu.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/n_pkey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/t_pkey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/t_req.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/t_x509.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_attrib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_crl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_info.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_name.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_pkey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_pubkey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_req.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_sig.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_spki.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_val.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/asn1/x_x509.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_cbc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_cfb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_ecb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_locl.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_ofb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_opts.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_pi.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bf_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bfspeed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/bftest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bf/blowfish.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/b_dump.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bf_buff.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bf_lbuf.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bf_nbio.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bf_null.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bio_cb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bio.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bio_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/b_print.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/b_sock.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_acpt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_conn.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_fd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_file.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_mem.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_null.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_rtcp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bio/bss_sock.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_add.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_asm.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_blind.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_div.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_exp2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_exp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_gcd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_lcl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mod.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mont.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mpi.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_mul.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_prime.pl
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_print.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_rand.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_recp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_shift.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bnspeed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_sqr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bntest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/bn_word.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/expspeed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/bn/exptest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/buffer/buffer.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/buffer/buffer.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/buffer/buf_str.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/cast.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/cast_lcl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/castopts.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/cast_s.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/cast_spd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/casttest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/c_cfb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/c_ecb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/c_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/c_ofb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cast/c_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/cnf_save.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/conf_api.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/conf_api.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/conf_def.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/conf_def.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/conf.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/keysets.pl
+
+       Copyright (c) 1995-1998 Eric Young (eay cryptsoft.com)
+
+       See SECTION 50 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/conf/test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/constant_time_locl.h
+
+       Copyright (c) 2014-2019 The OpenSSL Project
+
+       See SECTION 24 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/constant_time_test.c
+
+       Copyright (c) 2014 The OpenSSL Project
+
+       See SECTION 24 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cryptlib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cryptlib.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/crypto.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/cversion.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cbc3_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cbc_cksm.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cbc_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cfb64ede.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cfb64enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/cfb_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des_locl.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des_opts.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/destest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/des_ver.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ecb3_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ecb_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/enc_read.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/enc_writ.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/fcrypt_b.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ncbc_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ofb64ede.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ofb64enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/ofb_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/pcbc_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/qud_cksm.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/read_pwd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/rpc_des.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/rpc_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/rpw.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/set_key.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/speed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/spr.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/str2key.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/des/xcbc_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh_check.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh_gen.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh_key.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dh_prn.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/dhtest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/p1024.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/p192.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dh/p512.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_gen.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsagen.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_key.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_ossl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsatest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/dsa/dsa_vrf.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/err/err_all.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/err/err.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/err/err.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/err/err_prn.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/bio_b64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/bio_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/bio_md.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/bio_ok.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/c_all.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/c_allc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/c_alld.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/digest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_bf.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_cast.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_des3.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_des.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_dsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_idea.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/encode.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_null.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc4.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_rc5.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/evp_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/evp.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/evp_key.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/evp_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/e_xcbc_d.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_dss1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_dss.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_md2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_md4.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_md5.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_mdc2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_null.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_ripemd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_sha1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/m_sha.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/names.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_dec.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_open.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_seal.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/evp/p_verify.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ex_data.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/hmac/hmac.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/hmac/hmac.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/hmac/hmactest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/i_cbc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 40 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/i_cfb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/idea.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/idea_lcl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/idea_spd.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/ideatest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/i_ecb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/i_ofb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/idea/i_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/lhash/lhash.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/lhash/lhash.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/lhash/lh_stats.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/lhash/lh_test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md2/md2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md2/md2_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md2/md2.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md2/md2_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md2/md2test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md4/md4test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/md5/md5test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mdc2/mdc2test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mem.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/mem_dbg.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/obj_dat.pl
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/objects.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/objects.pl
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/obj_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/objects/obj_mac.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_all.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_info.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_oth.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_pk8.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_pkey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_seal.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pem/pem_sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_doit.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pk7_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/pkcs7/pkcs7.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/md_rand.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/randfile.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand_lcl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand_nw.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/randtest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand_unix.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rand/rand_win.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_cbc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2cfb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_ecb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2ofb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2speed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc2/rc2test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4.h
+
+       Copyright (c) 1995-1997 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4speed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc4/rc4test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5cfb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_ecb.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5ofb64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5_skey.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5speed.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rc5/rc5test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/ripemd.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd160.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmdconst.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmd_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ripemd/rmdtest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_crpt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_eay.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_gen.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_none.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_pk1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_saos.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/rsa/rsa_ssl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha1dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha1_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha1test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha_dgst.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/sha_one.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/sha/shatest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/stack/stack.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/stack/stack.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/threads/mttest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/threads/th-lock.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/txt_db/txt_db.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/txt_db/txt_db.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/ui/ui_openssl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/by_dir.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/by_file.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_att.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_cmp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_d2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_def.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_ext.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_lu.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509name.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_obj.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_r2x.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_req.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509rset.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_set.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_txt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509type.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_v3.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_vfy.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x509_vfy.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/crypto/x509/x_all.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/demos/b64.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/demos/prime/prime.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/demos/sign/sign.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/e_os.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/bio_ssl.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/d1_both.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/d1_clnt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/d1_pkt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/d1_srtp.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/d1_srvr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s23_clnt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s23_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s23_meth.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s23_pkt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s23_srvr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_clnt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_meth.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_pkt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s2_srvr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_both.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_clnt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_meth.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_pkt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/s3_srvr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/srtp.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl23.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl2.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl3.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_algs.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_asn1.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_cert.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_ciph.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_err2.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_locl.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_rsa.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_sess.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_stat.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_task.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssltest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/ssl_txt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_clnt.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_enc.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_lib.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_meth.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_reneg.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/t1_srvr.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/ssl/tls1.h
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/test/methtest.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/test/r160test.c
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 5 in 'LICENSE TEXT REFERENCE TABLE'
+
+       vmware-OpenSSL_1_0_2za/util/add_cr.pl
+
+       Copyright (c) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+       See SECTION 4 in 'LICENSE TEXT REFERENCE TABLE'
+
        > Patent Disclaimer for OpenSSL
 
        vmware-OpenSSL_1_0_2za/apps/s_client.c
@@ -9363,7 +9363,7 @@ APPENDIX. Standard License Files
 
        See SECTION 3 in 'LICENSE TEXT REFERENCE TABLE'
 
-	   
+       
 
 ==================== APPENDIX. Standard License Files ====================
 
@@ -11208,4 +11208,4 @@ Source Files is valid for three years from the date you acquired this
 Software product. Alternatively, the Source Files may accompany the
 VMware product.
 
-[AWIOSSDK2110GADS110221]
+[AWIOSSDK2111GADS120121]
