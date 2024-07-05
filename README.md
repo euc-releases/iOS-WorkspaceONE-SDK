@@ -30,7 +30,7 @@ To integrate the SDK into your app, proceed as follows.
     This opens the Choose Package Repository screen.
 
 3.  Enter the address of this repository
-    `https://github.com/vmwareairwatchsdk/iOS-WorkspaceONE-SDK` and click Next.
+    `https://github.com/euc-releases/iOS-WorkspaceONE-SDK` and click Next.
 
     This opens the Choose Package Options screen.
 
@@ -49,7 +49,7 @@ integration work. See the developer documentation.
 # Developer Documentation
 Full instructions for integrating your app with the Workspace ONE SDK for iOS are
 available on the developer.vmware.com website. See:
-[https://developer.vmware.com/web/sdk/Native/airwatch-ios](https://developer.vmware.com/web/sdk/Native/airwatch-ios)
+[https://developer.vmware.com/web/sdk/Native/airwatch-ios](https://developer.omnissa.com/ws1-sdk-uem-ios/)
 
 # Other Integration
 The SDK can also be integrated into products other than applications, such as
@@ -63,7 +63,7 @@ import PackageDescription
 let package = Package(
     name: "YOUR_PROJECT_NAME",
     dependencies: [
-        .package(url: "https://github.com/vmwareairwatchsdk/iOS-WorkspaceONE-SDK.git", from: "21.9.0"),
+        .package(url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK.git", from: "24.6.0"),
     ]
 )
 ```
