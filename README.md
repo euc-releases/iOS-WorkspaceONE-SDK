@@ -48,8 +48,8 @@ integration work. See the developer documentation.
 
 # Developer Documentation
 Full instructions for integrating your app with the Workspace ONE SDK for iOS are
-available on the developer.vmware.com website. See:
-[https://developer.vmware.com/web/sdk/Native/airwatch-ios](https://developer.omnissa.com/ws1-sdk-uem-ios/)
+available on the developer.omnissa.com website. See:
+[https://developer.omnissa.com/ws1-sdk-uem-ios/](https://developer.omnissa.com/ws1-sdk-uem-ios/)
 
 # Other Integration
 The SDK can also be integrated into products other than applications, such as
@@ -57,7 +57,7 @@ frameworks and libraries. Add code like the following to your `Package.swift`
 file.
 
 ```swift
-// swift-tools-version:5.3
+// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
