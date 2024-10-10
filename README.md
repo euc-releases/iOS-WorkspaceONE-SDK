@@ -4,18 +4,18 @@ software development kit (SDK) for iOS. You can integrate the SDK into your app
 using Swift package manager in Xcode.
 
 # Agreement
-Before downloading, installing or using the VMware Workspace ONE SDK you must:
+Before downloading, installing or using the Workspace ONE SDK you must:
 
 1.  Review the
-    [VMware Workspace ONE Software Development Kit License Agreement](https://developer.vmware.com/docs/12215/VMwareWorkspaceONESDKLicenseAgreement.pdf).
-    By downloading, installing, or using the VMware Workspace ONE SDK you agree
+    [Workspace ONE Software Development Kit License Agreement](https://www.omnissa.com/general-terms/).
+    By downloading, installing, or using the Workspace ONE SDK you agree
     to these license terms.  If you disagree with any of the terms, then do not
     use the software.
 
 2.  Review the
-    [VMware Privacy Notice](https://www.vmware.com/help/privacy.html)
+    [Omnissa Privacy Notice](https://www.omnissa.com/trust-center/#privacy-notices)
     and the
-    [Workspace ONE UEM Privacy Disclosure](https://www.vmware.com/help/privacy/uem-privacy-disclosure.html),
+    [Workspace ONE UEM Privacy Disclosure](https://www.omnissa.com/trust-center/#privacy-notices),
     for information on applicable privacy policies.
 
 This applies however you obtain the software.
@@ -49,7 +49,7 @@ integration work. See the developer documentation.
 # Developer Documentation
 Full instructions for integrating your app with the Workspace ONE SDK for iOS are
 available on the developer.omnissa.com website. See:
-[https://developer.omnissa.com/ws1-sdk-uem-ios/](https://developer.omnissa.com/ws1-sdk-uem-ios/)
+[https://developer.omnissa.com/ws1-uem-sdk-for-ios/](https://developer.omnissa.com/ws1-uem-sdk-for-ios/)
 
 # Other Integration
 The SDK can also be integrated into products other than applications, such as
@@ -72,13 +72,4 @@ Build your product in the usual way, for example by running the `swift` `build`
 command.
 
 # Legal
--   **VMware, Inc.** 3401 Hillview Avenue Palo Alto CA 94304 USA
-    Tel 877-486-9273 Fax 650-427-5001 www.vmware.com
--   Copyright © 2021 VMware, Inc. All rights reserved.
--   This content is protected by U.S. and international copyright and
-    intellectual property laws. VMware products are covered by one
-    or more patents listed at
-    [https://www.vmware.com/go/patents](https://www.vmware.com/go/patents).
-    VMware is a registered trademark or trademark of VMware, Inc. and its
-    subsidiaries in the United States and other jurisdictions. All other marks
-    and names mentioned herein may be trademarks of their respective companies.
+-   Copyright © 2022 Omnissa. All rights reserved. This product is protected by copyright and intellectual property laws in the United States and other countries as well as by international treaties. Omnissa products are covered by one or more patents listed at: https://www.omnissa.com/omnissa-patent-information/. Omnissa, the Omnissa Logo, Workspace ONE, and Horizon are registered trademarks or trademarks of Omnissa in the United States and other jurisdictions. All other marks and names mentioned herein may be trademarks of their respective companies. “Omnissa” refers to Omnissa, LLC, Omnissa International Unlimited Company, and/or their subsidiaries.
