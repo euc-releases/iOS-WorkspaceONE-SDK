@@ -1,9 +1,7 @@
 # Workspace ONE Software Development Kit Swift Package
-This repository contains the Swift package description for the Workspace ONE
-software development kit (SDK) for iOS. You can integrate the SDK into your app
-using Swift package manager in Xcode.
+This repository contains the Swift package description for the Workspace ONE software development kit (SDK) for iOS. You can integrate the SDK into your app using Swift package manager in Xcode.
 
-For detailed information about the Workspace ONE SDK and managing internal apps, See the [Omnissa Developer Portal SDKs](https://developer.omnissa.com/sdks/) page and navigate to the appropriate area.
+For detailed information about the Workspace ONE SDK and managing internal apps, see the [Omnissa Developer Portal SDKs](https://developer.omnissa.com/sdks/) page and navigate to the appropriate area.
 
 This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
 
@@ -32,13 +30,11 @@ To integrate the SDK into your app, proceed as follows.
 
     This opens the Choose Package Repository screen.
 
-3.  Enter the address of this repository
-    `https://github.com/euc-releases/iOS-WorkspaceONE-SDK` and click Next.
+3.  Enter the address of this repository `https://github.com/euc-releases/iOS-WorkspaceONE-SDK` and click Next.
 
     This opens the Choose Package Options screen.
 
-4.  Select the rule Branch, leave the default value for branch name, and click
-    Next.
+4.  Select the rule Branch, leave the default value for branch name, and click Next.
 
     Xcode will resolve the package dependency, which might take some time.
 
@@ -46,13 +42,10 @@ To integrate the SDK into your app, proceed as follows.
 
 5.  Select to add the AWSDK package product to your app target and click Finish.
 
-The SDK has now been added to your application project. You can start the
-integration work. See the developer documentation.
+The SDK has now been added to your application project. You can start the integration work. See the developer documentation.
 
 ## Other Integration
-The SDK can also be integrated into products other than applications, such as
-frameworks and libraries. Add code like the following to your `Package.swift`
-file.
+The SDK can also be integrated into products other than applications, such as frameworks and libraries. Add code like the following to your `Package.swift` file.
 
 ```swift
 // swift-tools-version:5.9
@@ -66,5 +59,4 @@ let package = Package(
 )
 ```
 
-Build your product in the usual way, for example by running the `swift` `build`
-command.
+Build your product in the usual way, for example by running the `swift` `build` command.
