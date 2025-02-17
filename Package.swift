@@ -15,13 +15,13 @@ import PackageDescription
 
 let package = Package(
     name: "WorkspaceOneSDK",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v16)],
     products: [
         .library(
             name: "AWSDK",
             targets: ["AWSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/24.11.0/AWSDK.xcframework.zip", checksum:"f0aa76d60df7c79c35674ccbdc0b6fcd13a51d35e2a3705070a3fb292550cc5e")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.02.0/AWSDK.xcframework.zip", checksum:"47b861bae9c925dfaf5b9b8d4498d2209913d38639156e519309ea82639c6d9d")
     ]
 )
