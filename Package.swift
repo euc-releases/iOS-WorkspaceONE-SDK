@@ -19,9 +19,10 @@ let package = Package(
     products: [
         .library(
             name: "AWSDK",
-            targets: ["AWSDK"]),
+            targets: ["AWSDK", "FIPS"]),
     ],
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.02.1/AWSDK.xcframework.zip", checksum:"03e70a8353b9ade6f146079e183094de162b373ae0101f0441476e5c7beeee57")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.04.1/AWSDK.xcframework.zip", checksum:"d4a11fd82a17b6ab49dc0424dc07637aadecc024f6744842583ee2fd9560f819"),
+        .binaryTarget(name: "FIPS", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.04.1/fips.xcframework.zip", checksum:"e289f84164a4086229823b56ecbf5e83330a7bc3cf025bdd4e7c758d7b953272")
     ]
 )
