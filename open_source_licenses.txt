@@ -1,18 +1,19 @@
 ================================================================================
 ================================================================================
 
-               Third-Party Software for Workspace ONE SDK for iOS
+           Third-Party Software for Omnissa Workspace ONE SDK for iOS
 
 --------------------------------------------------------------------------------
 
 
-To the extent required under an applicable open source license, Omnissa will make source code available for applicable OSS upon request. Please send an inquiry to OSS@omnissa.com including your name, address, the product name and version, operating system, and the place of purchase.
+<p>To the extent required under an applicable open source license, Omnissa will make source code available for applicable OSS upon request. Please send an inquiry to <a href="mailto:OSS@omnissa.com">OSS@omnissa.com</a> including your name, address, the product name and version, operating system, and the place of purchase.</p>
 
-The following 3rd-party software packages may be used by or distributed with Workspace ONE SDK for iOS. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
-Date generated: 2025-4-8
+The following 3rd-party software packages may be used by or distributed with Omnissa Workspace ONE SDK for iOS. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
-Revision ID: 1a13f6dae495eb907e402374533dba6346eaf3e6
+Date generated: 2025-6-5
+
+Release: 25.4.1
 
 ================================================================================
 ================================================================================
@@ -26,7 +27,7 @@ Revision ID: 1a13f6dae495eb907e402374533dba6346eaf3e6
 
 ================================================================================
 
-No licenses found
+No first party licenses found for Omnissa Workspace ONE SDK for iOS
 
 
 
@@ -50,6 +51,98 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/AppAuth.h
+Sources/AppAuth/iOS/OIDAuthorizationService+IOS.h
+Sources/AppAuth/iOS/OIDAuthorizationService+IOS.m
+Sources/AppAuth/iOS/OIDAuthState+IOS.h
+Sources/AppAuth/iOS/OIDAuthState+IOS.m
+Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
+Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.m
+Sources/AppAuth/iOS/OIDExternalUserAgentIOS.h
+Sources/AppAuth/iOS/OIDExternalUserAgentIOS.m
+Sources/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.h
+Sources/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.m
+Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h
+Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.m
+Sources/AppAuth/macOS/OIDAuthorizationService+Mac.h
+Sources/AppAuth/macOS/OIDAuthorizationService+Mac.m
+Sources/AppAuth/macOS/OIDAuthState+Mac.h
+Sources/AppAuth/macOS/OIDAuthState+Mac.m
+Sources/AppAuth/macOS/OIDExternalUserAgentMac.h
+Sources/AppAuth/macOS/OIDExternalUserAgentMac.m
+Sources/AppAuth/macOS/OIDRedirectHTTPHandler.h
+Sources/AppAuth/macOS/OIDRedirectHTTPHandler.m
+Sources/AppAuthCore.h
+Sources/AppAuthCore/OIDAuthorizationRequest.h
+Sources/AppAuthCore/OIDAuthorizationRequest.m
+Sources/AppAuthCore/OIDAuthorizationResponse.h
+Sources/AppAuthCore/OIDAuthorizationResponse.m
+Sources/AppAuthCore/OIDAuthorizationService.h
+Sources/AppAuthCore/OIDAuthorizationService.m
+Sources/AppAuthCore/OIDAuthState.h
+Sources/AppAuthCore/OIDAuthState.m
+Sources/AppAuthCore/OIDAuthStateChangeDelegate.h
+Sources/AppAuthCore/OIDAuthStateErrorDelegate.h
+Sources/AppAuthCore/OIDClientMetadataParameters.h
+Sources/AppAuthCore/OIDClientMetadataParameters.m
+Sources/AppAuthCore/OIDDefines.h
+Sources/AppAuthCore/OIDEndSessionRequest.h
+Sources/AppAuthCore/OIDEndSessionRequest.m
+Sources/AppAuthCore/OIDEndSessionResponse.h
+Sources/AppAuthCore/OIDEndSessionResponse.m
+Sources/AppAuthCore/OIDError.h
+Sources/AppAuthCore/OIDError.m
+Sources/AppAuthCore/OIDErrorUtilities.h
+Sources/AppAuthCore/OIDErrorUtilities.m
+Sources/AppAuthCore/OIDExternalUserAgent.h
+Sources/AppAuthCore/OIDExternalUserAgentRequest.h
+Sources/AppAuthCore/OIDExternalUserAgentSession.h
+Sources/AppAuthCore/OIDFieldMapping.h
+Sources/AppAuthCore/OIDFieldMapping.m
+Sources/AppAuthCore/OIDGrantTypes.h
+Sources/AppAuthCore/OIDGrantTypes.m
+Sources/AppAuthCore/OIDIDToken.h
+Sources/AppAuthCore/OIDIDToken.m
+Sources/AppAuthCore/OIDRegistrationRequest.h
+Sources/AppAuthCore/OIDRegistrationRequest.m
+Sources/AppAuthCore/OIDRegistrationResponse.h
+Sources/AppAuthCore/OIDRegistrationResponse.m
+Sources/AppAuthCore/OIDResponseTypes.h
+Sources/AppAuthCore/OIDResponseTypes.m
+Sources/AppAuthCore/OIDScopes.h
+Sources/AppAuthCore/OIDScopes.m
+Sources/AppAuthCore/OIDScopeUtilities.h
+Sources/AppAuthCore/OIDScopeUtilities.m
+Sources/AppAuthCore/OIDServiceConfiguration.h
+Sources/AppAuthCore/OIDServiceConfiguration.m
+Sources/AppAuthCore/OIDServiceDiscovery.h
+Sources/AppAuthCore/OIDServiceDiscovery.m
+Sources/AppAuthCore/OIDTokenRequest.h
+Sources/AppAuthCore/OIDTokenRequest.m
+Sources/AppAuthCore/OIDTokenResponse.h
+Sources/AppAuthCore/OIDTokenResponse.m
+Sources/AppAuthCore/OIDTokenUtilities.h
+Sources/AppAuthCore/OIDTokenUtilities.m
+Sources/AppAuthCore/OIDURLQueryComponent.h
+Sources/AppAuthCore/OIDURLQueryComponent.m
+Sources/AppAuthCore/OIDURLSessionProvider.h
+Sources/AppAuthCore/OIDURLSessionProvider.m
+Sources/AppAuthTV.h
+Sources/AppAuthTV/OIDTVAuthorizationRequest.h
+Sources/AppAuthTV/OIDTVAuthorizationRequest.m
+Sources/AppAuthTV/OIDTVAuthorizationResponse.h
+Sources/AppAuthTV/OIDTVAuthorizationResponse.m
+Sources/AppAuthTV/OIDTVAuthorizationService.h
+Sources/AppAuthTV/OIDTVAuthorizationService.m
+Sources/AppAuthTV/OIDTVServiceConfiguration.h
+Sources/AppAuthTV/OIDTVServiceConfiguration.m
+Sources/AppAuthTV/OIDTVTokenRequest.h
+Sources/AppAuthTV/OIDTVTokenRequest.m
+--------------------------------------------------------------------------------
 
 
 
@@ -263,6 +356,8 @@ Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth?version=1.7.6&amp;org_id=37890
 
+Dependency Path: AppAuth
+
 --------------------------------------------------------------------------------
 Package Title: AppAuth/Core (1.7.6)
 
@@ -273,6 +368,66 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/AppAuthCore.h
+Sources/AppAuthCore/OIDAuthorizationRequest.h
+Sources/AppAuthCore/OIDAuthorizationRequest.m
+Sources/AppAuthCore/OIDAuthorizationResponse.h
+Sources/AppAuthCore/OIDAuthorizationResponse.m
+Sources/AppAuthCore/OIDAuthorizationService.h
+Sources/AppAuthCore/OIDAuthorizationService.m
+Sources/AppAuthCore/OIDAuthState.h
+Sources/AppAuthCore/OIDAuthState.m
+Sources/AppAuthCore/OIDAuthStateChangeDelegate.h
+Sources/AppAuthCore/OIDAuthStateErrorDelegate.h
+Sources/AppAuthCore/OIDClientMetadataParameters.h
+Sources/AppAuthCore/OIDClientMetadataParameters.m
+Sources/AppAuthCore/OIDDefines.h
+Sources/AppAuthCore/OIDEndSessionRequest.h
+Sources/AppAuthCore/OIDEndSessionRequest.m
+Sources/AppAuthCore/OIDEndSessionResponse.h
+Sources/AppAuthCore/OIDEndSessionResponse.m
+Sources/AppAuthCore/OIDError.h
+Sources/AppAuthCore/OIDError.m
+Sources/AppAuthCore/OIDErrorUtilities.h
+Sources/AppAuthCore/OIDErrorUtilities.m
+Sources/AppAuthCore/OIDExternalUserAgent.h
+Sources/AppAuthCore/OIDExternalUserAgentRequest.h
+Sources/AppAuthCore/OIDExternalUserAgentSession.h
+Sources/AppAuthCore/OIDFieldMapping.h
+Sources/AppAuthCore/OIDFieldMapping.m
+Sources/AppAuthCore/OIDGrantTypes.h
+Sources/AppAuthCore/OIDGrantTypes.m
+Sources/AppAuthCore/OIDIDToken.h
+Sources/AppAuthCore/OIDIDToken.m
+Sources/AppAuthCore/OIDRegistrationRequest.h
+Sources/AppAuthCore/OIDRegistrationRequest.m
+Sources/AppAuthCore/OIDRegistrationResponse.h
+Sources/AppAuthCore/OIDRegistrationResponse.m
+Sources/AppAuthCore/OIDResponseTypes.h
+Sources/AppAuthCore/OIDResponseTypes.m
+Sources/AppAuthCore/OIDScopes.h
+Sources/AppAuthCore/OIDScopes.m
+Sources/AppAuthCore/OIDScopeUtilities.h
+Sources/AppAuthCore/OIDScopeUtilities.m
+Sources/AppAuthCore/OIDServiceConfiguration.h
+Sources/AppAuthCore/OIDServiceConfiguration.m
+Sources/AppAuthCore/OIDServiceDiscovery.h
+Sources/AppAuthCore/OIDServiceDiscovery.m
+Sources/AppAuthCore/OIDTokenRequest.h
+Sources/AppAuthCore/OIDTokenRequest.m
+Sources/AppAuthCore/OIDTokenResponse.h
+Sources/AppAuthCore/OIDTokenResponse.m
+Sources/AppAuthCore/OIDTokenUtilities.h
+Sources/AppAuthCore/OIDTokenUtilities.m
+Sources/AppAuthCore/OIDURLQueryComponent.h
+Sources/AppAuthCore/OIDURLQueryComponent.m
+Sources/AppAuthCore/OIDURLSessionProvider.h
+Sources/AppAuthCore/OIDURLSessionProvider.m
+--------------------------------------------------------------------------------
 
 
 
@@ -486,6 +641,8 @@ Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FCore?version=1.7.6&amp;org_id=37890
 
+Dependency Path: AppAuth/Core
+
 --------------------------------------------------------------------------------
 Package Title: AppAuth/ExternalUserAgent (1.7.6)
 
@@ -496,6 +653,32 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/AppAuth.h
+Sources/AppAuth/iOS/OIDAuthorizationService+IOS.h
+Sources/AppAuth/iOS/OIDAuthorizationService+IOS.m
+Sources/AppAuth/iOS/OIDAuthState+IOS.h
+Sources/AppAuth/iOS/OIDAuthState+IOS.m
+Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.h
+Sources/AppAuth/iOS/OIDExternalUserAgentCatalyst.m
+Sources/AppAuth/iOS/OIDExternalUserAgentIOS.h
+Sources/AppAuth/iOS/OIDExternalUserAgentIOS.m
+Sources/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.h
+Sources/AppAuth/iOS/OIDExternalUserAgentIOSCustomBrowser.m
+Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h
+Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.m
+Sources/AppAuth/macOS/OIDAuthorizationService+Mac.h
+Sources/AppAuth/macOS/OIDAuthorizationService+Mac.m
+Sources/AppAuth/macOS/OIDAuthState+Mac.h
+Sources/AppAuth/macOS/OIDAuthState+Mac.m
+Sources/AppAuth/macOS/OIDExternalUserAgentMac.h
+Sources/AppAuth/macOS/OIDExternalUserAgentMac.m
+Sources/AppAuth/macOS/OIDRedirectHTTPHandler.h
+Sources/AppAuth/macOS/OIDRedirectHTTPHandler.m
+--------------------------------------------------------------------------------
 
 
 
@@ -709,6 +892,8 @@ Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FExternalUserAgent?version=1.7.6&amp;org_id=37890
 
+Dependency Path: AppAuth/ExternalUserAgent
+
 --------------------------------------------------------------------------------
 Package Title: AppCheckCore (11.2.0)
 
@@ -719,6 +904,117 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+AppCheckCore/Sources/AppAttestProvider/API/GACAppAttestAPIService.h
+AppCheckCore/Sources/AppAttestProvider/API/GACAppAttestAPIService.m
+AppCheckCore/Sources/AppAttestProvider/API/GACAppAttestAttestationResponse.h
+AppCheckCore/Sources/AppAttestProvider/API/GACAppAttestAttestationResponse.m
+AppCheckCore/Sources/AppAttestProvider/DCAppAttestService+GACAppAttestService.h
+AppCheckCore/Sources/AppAttestProvider/DCAppAttestService+GACAppAttestService.m
+AppCheckCore/Sources/AppAttestProvider/Errors/GACAppAttestRejectionError.h
+AppCheckCore/Sources/AppAttestProvider/Errors/GACAppAttestRejectionError.m
+AppCheckCore/Sources/AppAttestProvider/GACAppAttestProvider.m
+AppCheckCore/Sources/AppAttestProvider/GACAppAttestProviderState.h
+AppCheckCore/Sources/AppAttestProvider/GACAppAttestProviderState.m
+AppCheckCore/Sources/AppAttestProvider/GACAppAttestService.h
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestArtifactStorage.h
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestArtifactStorage.m
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestKeyIDStorage.h
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestKeyIDStorage.m
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestStoredArtifact.h
+AppCheckCore/Sources/AppAttestProvider/Storage/GACAppAttestStoredArtifact.m
+AppCheckCore/Sources/Core/APIService/GACAppCheckAPIService.h
+AppCheckCore/Sources/Core/APIService/GACAppCheckAPIService.m
+AppCheckCore/Sources/Core/APIService/GACAppCheckToken+APIResponse.h
+AppCheckCore/Sources/Core/APIService/GACAppCheckToken+APIResponse.m
+AppCheckCore/Sources/Core/APIService/GACURLSessionDataResponse.h
+AppCheckCore/Sources/Core/APIService/GACURLSessionDataResponse.m
+AppCheckCore/Sources/Core/APIService/NSURLSession+GACPromises.h
+AppCheckCore/Sources/Core/APIService/NSURLSession+GACPromises.m
+AppCheckCore/Sources/Core/Backoff/GACAppCheckBackoffWrapper.h
+AppCheckCore/Sources/Core/Backoff/GACAppCheckBackoffWrapper.m
+AppCheckCore/Sources/Core/Errors/GACAppCheckErrors.m
+AppCheckCore/Sources/Core/Errors/GACAppCheckErrorUtil.h
+AppCheckCore/Sources/Core/Errors/GACAppCheckErrorUtil.m
+AppCheckCore/Sources/Core/Errors/GACAppCheckHTTPError.h
+AppCheckCore/Sources/Core/Errors/GACAppCheckHTTPError.m
+AppCheckCore/Sources/Core/GACAppCheck.m
+AppCheckCore/Sources/Core/GACAppCheckLogger.m
+AppCheckCore/Sources/Core/GACAppCheckLogger+Internal.h
+AppCheckCore/Sources/Core/GACAppCheckSettings.m
+AppCheckCore/Sources/Core/GACAppCheckToken.m
+AppCheckCore/Sources/Core/GACAppCheckTokenResult.m
+AppCheckCore/Sources/Core/Storage/GACAppCheckStorage.h
+AppCheckCore/Sources/Core/Storage/GACAppCheckStorage.m
+AppCheckCore/Sources/Core/Storage/GACAppCheckStoredToken.h
+AppCheckCore/Sources/Core/Storage/GACAppCheckStoredToken.m
+AppCheckCore/Sources/Core/Storage/GACAppCheckStoredToken+GACAppCheckToken.h
+AppCheckCore/Sources/Core/Storage/GACAppCheckStoredToken+GACAppCheckToken.m
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTimer.h
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTimer.m
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefresher.h
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefresher.m
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefreshResult.h
+AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefreshResult.m
+AppCheckCore/Sources/Core/Utils/GACAppCheckCryptoUtils.h
+AppCheckCore/Sources/Core/Utils/GACAppCheckCryptoUtils.m
+AppCheckCore/Sources/DebugProvider/API/GACAppCheckDebugProviderAPIService.h
+AppCheckCore/Sources/DebugProvider/API/GACAppCheckDebugProviderAPIService.m
+AppCheckCore/Sources/DebugProvider/GACAppCheckDebugProvider.m
+AppCheckCore/Sources/DeviceCheckProvider/API/GACDeviceCheckAPIService.h
+AppCheckCore/Sources/DeviceCheckProvider/API/GACDeviceCheckAPIService.m
+AppCheckCore/Sources/DeviceCheckProvider/DCDevice+GACDeviceCheckTokenGenerator.h
+AppCheckCore/Sources/DeviceCheckProvider/DCDevice+GACDeviceCheckTokenGenerator.m
+AppCheckCore/Sources/DeviceCheckProvider/GACDeviceCheckProvider.m
+AppCheckCore/Sources/DeviceCheckProvider/GACDeviceCheckTokenGenerator.h
+AppCheckCore/Sources/Public/AppCheckCore/AppCheckCore.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppAttestProvider.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheck.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckAvailability.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckDebugProvider.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckErrors.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckLogger.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckProvider.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckSettings.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckToken.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckTokenDelegate.h
+AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckTokenResult.h
+AppCheckCore/Sources/Public/AppCheckCore/GACDeviceCheckProvider.h
+AppCheckCore/Tests/Integration/GACDeviceCheckAPIServiceE2ETests.m
+AppCheckCore/Tests/Unit/AppAttestProvider/GACAppAttestAPIServiceTests.m
+AppCheckCore/Tests/Unit/AppAttestProvider/GACAppAttestProviderTests.m
+AppCheckCore/Tests/Unit/AppAttestProvider/Storage/GACAppAttestArtifactStorageTests.m
+AppCheckCore/Tests/Unit/AppAttestProvider/Storage/GACAppAttestKeyIDStorageTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckAPIServiceTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckBackoffWrapperTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckCryptoUtilsTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckLoggerTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckStorageTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckStoredTokenTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckTimerTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckTokenRefresherTests.m
+AppCheckCore/Tests/Unit/Core/GACAppCheckTokenResultTests.m
+AppCheckCore/Tests/Unit/DebugProvider/GACAppCheckDebugProviderAPIServiceTests.m
+AppCheckCore/Tests/Unit/DebugProvider/GACAppCheckDebugProviderTests.m
+AppCheckCore/Tests/Unit/DeviceCheckProvider/GACDeviceCheckAPIServiceTests.m
+AppCheckCore/Tests/Unit/DeviceCheckProvider/GACDeviceCheckProviderTests.m
+AppCheckCore/Tests/Unit/Swift/AppCheckAPITests.swift
+AppCheckCore/Tests/Unit/Utils/GACFakeTimer.h
+AppCheckCore/Tests/Unit/Utils/GACFakeTimer.m
+AppCheckCore/Tests/Unit/Utils/GACFixtureLoader.h
+AppCheckCore/Tests/Unit/Utils/GACFixtureLoader.m
+AppCheckCore/Tests/Utils/AppCheckBackoffWrapperFake/GACAppCheckBackoffWrapperFake.h
+AppCheckCore/Tests/Utils/AppCheckBackoffWrapperFake/GACAppCheckBackoffWrapperFake.m
+AppCheckCore/Tests/Utils/Date/GACDateTestUtils.h
+AppCheckCore/Tests/Utils/Date/GACDateTestUtils.m
+AppCheckCore/Tests/Utils/URLSession/GACURLSessionOCMockStub.h
+AppCheckCore/Tests/Utils/URLSession/GACURLSessionOCMockStub.m
+LICENSE
+README.md
+--------------------------------------------------------------------------------
 
 
 
@@ -930,6 +1226,8 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/AppCheckCore?version=11.2.0&amp;org_id=
 
+Dependency Path: AppCheckCore
+
 --------------------------------------------------------------------------------
 Package Title: CocoaLumberjack (3.8.5)
 
@@ -940,6 +1238,11 @@ Package Depth: Transitive
 
 * Declared Licenses *
 BSD-3-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
 
 
 BSD 3-Clause License
@@ -965,6 +1268,8 @@ Authors: robbiehanson@deusty.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/CocoaLumberjack?version=3.8.5&amp;org_id=
 
+Dependency Path: CocoaLumberjack
+
 --------------------------------------------------------------------------------
 Package Title: CocoaLumberjack/Core (3.8.5)
 
@@ -975,6 +1280,12 @@ Package Depth: Transitive
 
 * Declared Licenses *
 BSD-3-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+README.md
+--------------------------------------------------------------------------------
 
 
 BSD 3-Clause License
@@ -1000,6 +1311,8 @@ Authors: robbiehanson@deusty.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/CocoaLumberjack%2FCore?version=3.8.5&amp;org_id=43030
 
+Dependency Path: CocoaLumberjack/Core
+
 --------------------------------------------------------------------------------
 Package Title: Djinni (1.0.0)
 
@@ -1016,6 +1329,11 @@ No licenses found
 Apache-2.0, BSL-1.0, BSD-3-Clause, CC-BY-2.5, GPL-1.0-only
 
 * Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+djinni-master/src/source/ObjcppGenerator.scala
+--------------------------------------------------------------------------------
+
 
 
                                  Apache License
@@ -1222,12 +1540,25 @@ Apache-2.0, BSL-1.0, BSD-3-Clause, CC-BY-2.5, GPL-1.0-only
 
 
 * BSL-1.0 *
+--------------------------------------------------------------------------------
+File matches:
+djinni-master/test-suite/handwritten-src/cpp/optional.hpp
+--------------------------------------------------------------------------------
+
 
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 * BSD-3-Clause *
+--------------------------------------------------------------------------------
+File matches:
+djinni-master/cmake/ios.toolchain.cmake
+djinni-master/deps/java/test/LICENSE.txt
+djinni-master/src/support/LICENSE
+djinni-master/src/support/LICENSE_Scala
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2014 Bogdan Cristea and LTE Engineering Software, . All rights reserved.
 
@@ -1257,6 +1588,13 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * CC-BY-2.5 *
+--------------------------------------------------------------------------------
+File matches:
+djinni-master/deps/java/javax/annotation/concurrent/GuardedBy.java
+djinni-master/deps/java/javax/annotation/concurrent/Immutable.java
+djinni-master/deps/java/javax/annotation/concurrent/NotThreadSafe.java
+--------------------------------------------------------------------------------
+
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
@@ -1298,12 +1636,21 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at http://creativecommons.org/.
 
 * GPL-1.0-only *
+--------------------------------------------------------------------------------
+File matches:
+djinni-master/src/support/NOTICE
+--------------------------------------------------------------------------------
+
 
 Copyright (C) 2008, 2009, 2010 Mark Harrah, David MacIver
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 1.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 
+
+* Package Info *
+
+Dependency Path: 43030/Djinni
 
 --------------------------------------------------------------------------------
 Package Title: duktape (2.7.0)
@@ -1321,6 +1668,14 @@ No licenses found
 CC0-1.0, MIT
 
 * CC0-1.0 *
+--------------------------------------------------------------------------------
+File matches:
+duktape-2.7.0/licenses/splitmix64.txt
+duktape-2.7.0/licenses/xoroshiro128plus.txt
+duktape-2.7.0/misc/splitmix64.c
+duktape-2.7.0/misc/xoroshiro128plus.c
+--------------------------------------------------------------------------------
+
 
 <<endOptional>>
 CC0 1.0 Universal<<endOptional>>
@@ -1345,6 +1700,12 @@ For these and/or other purposes and motivations, and without any expectation of 
       d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+duktape-2.7.0/LICENSE.txt
+duktape-2.7.0/licenses/murmurhash2.txt
+--------------------------------------------------------------------------------
+
 
 ===============
 Duktape license
@@ -1374,6 +1735,10 @@ THE SOFTWARE.
 
 
 
+* Package Info *
+
+Dependency Path: 43030/duktape
+
 --------------------------------------------------------------------------------
 Package Title: GoogleAPIClientForREST/CloudIdentity (4.1.0)
 
@@ -1384,6 +1749,11 @@ Package Depth: Direct
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
 
 
 
@@ -1595,6 +1965,8 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCloudIdentity?version=4.1.0&amp;org_id=43030
 
+Dependency Path: GoogleAPIClientForREST/CloudIdentity
+
 --------------------------------------------------------------------------------
 Package Title: GoogleAPIClientForREST/Core (4.1.0)
 
@@ -1605,6 +1977,40 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/Core/GTLRBase64.m
+Sources/Core/GTLRBatchQuery.m
+Sources/Core/GTLRBatchResult.m
+Sources/Core/GTLRDateTime.m
+Sources/Core/GTLRDefines.h
+Sources/Core/GTLRDuration.m
+Sources/Core/GTLRErrorObject.m
+Sources/Core/GTLRFramework.m
+Sources/Core/GTLRObject.m
+Sources/Core/GTLRQuery.m
+Sources/Core/GTLRRuntimeCommon.m
+Sources/Core/GTLRService.m
+Sources/Core/GTLRUploadParameters.m
+Sources/Core/GTLRURITemplate.m
+Sources/Core/GTLRUtilities.m
+Sources/Core/Public/GoogleAPIClientForREST/GTLRBase64.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRBatchQuery.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRBatchResult.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRDateTime.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRDuration.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRErrorObject.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRFramework.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRObject.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRQuery.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRRuntimeCommon.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRService.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRUploadParameters.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRURITemplate.h
+Sources/Core/Public/GoogleAPIClientForREST/GTLRUtilities.h
+--------------------------------------------------------------------------------
 
 
 
@@ -1816,6 +2222,8 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCore?version=4.1.0&amp;org_id=43030
 
+Dependency Path: GoogleAPIClientForREST/Core
+
 --------------------------------------------------------------------------------
 Package Title: GoogleSignIn (8.0.0)
 
@@ -1826,6 +2234,110 @@ Package Depth: Direct
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+GoogleSignIn/Sources/GIDAppCheck/Implementations/Fake/GIDAppCheckProviderFake.h
+GoogleSignIn/Sources/GIDAppCheck/Implementations/Fake/GIDAppCheckProviderFake.m
+GoogleSignIn/Sources/GIDAppCheck/Implementations/GIDAppCheck.h
+GoogleSignIn/Sources/GIDAppCheck/Implementations/GIDAppCheck.m
+GoogleSignIn/Sources/GIDAppCheck/UI/GIDActivityIndicatorViewController.h
+GoogleSignIn/Sources/GIDAppCheck/UI/GIDActivityIndicatorViewController.m
+GoogleSignIn/Sources/GIDAuthentication.h
+GoogleSignIn/Sources/GIDAuthentication.m
+GoogleSignIn/Sources/GIDAuthStateMigration.h
+GoogleSignIn/Sources/GIDAuthStateMigration.m
+GoogleSignIn/Sources/GIDCallbackQueue.h
+GoogleSignIn/Sources/GIDCallbackQueue.m
+GoogleSignIn/Sources/GIDConfiguration.m
+GoogleSignIn/Sources/GIDEMMErrorHandler.h
+GoogleSignIn/Sources/GIDEMMErrorHandler.m
+GoogleSignIn/Sources/GIDEMMSupport.h
+GoogleSignIn/Sources/GIDEMMSupport.m
+GoogleSignIn/Sources/GIDGoogleUser_Private.h
+GoogleSignIn/Sources/GIDGoogleUser.m
+GoogleSignIn/Sources/GIDMDMPasscodeCache.h
+GoogleSignIn/Sources/GIDMDMPasscodeCache.m
+GoogleSignIn/Sources/GIDMDMPasscodeState_Private.h
+GoogleSignIn/Sources/GIDMDMPasscodeState.h
+GoogleSignIn/Sources/GIDMDMPasscodeState.m
+GoogleSignIn/Sources/GIDProfileData_Private.h
+GoogleSignIn/Sources/GIDProfileData.m
+GoogleSignIn/Sources/GIDScopes.h
+GoogleSignIn/Sources/GIDScopes.m
+GoogleSignIn/Sources/GIDSignIn_Private.h
+GoogleSignIn/Sources/GIDSignIn.m
+GoogleSignIn/Sources/GIDSignInButton.m
+GoogleSignIn/Sources/GIDSignInCallbackSchemes.h
+GoogleSignIn/Sources/GIDSignInCallbackSchemes.m
+GoogleSignIn/Sources/GIDSignInInternalOptions.h
+GoogleSignIn/Sources/GIDSignInInternalOptions.m
+GoogleSignIn/Sources/GIDSignInPreferences.h
+GoogleSignIn/Sources/GIDSignInPreferences.m
+GoogleSignIn/Sources/GIDSignInResult_Private.h
+GoogleSignIn/Sources/GIDSignInResult.m
+GoogleSignIn/Sources/GIDSignInStrings.h
+GoogleSignIn/Sources/GIDSignInStrings.m
+GoogleSignIn/Sources/GIDTimedLoader/GIDTimedLoader.h
+GoogleSignIn/Sources/GIDTimedLoader/GIDTimedLoader.m
+GoogleSignIn/Sources/GIDToken_Private.h
+GoogleSignIn/Sources/GIDToken.m
+GoogleSignIn/Sources/NSBundle+GID3PAdditions.h
+GoogleSignIn/Sources/NSBundle+GID3PAdditions.m
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDAppCheckError.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDGoogleUser.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInButton.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInResult.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GIDToken.h
+GoogleSignIn/Sources/Public/GoogleSignIn/GoogleSignIn.h
+GoogleSignIn/Tests/Unit/GIDAppCheckTest.m
+GoogleSignIn/Tests/Unit/GIDAuthStateMigrationTest.m
+GoogleSignIn/Tests/Unit/GIDConfiguration+Testing.h
+GoogleSignIn/Tests/Unit/GIDConfiguration+Testing.m
+GoogleSignIn/Tests/Unit/GIDConfigurationTest.m
+GoogleSignIn/Tests/Unit/GIDEMMErrorHandlerTest.m
+GoogleSignIn/Tests/Unit/GIDEMMSupportTest.m
+GoogleSignIn/Tests/Unit/GIDFailingOIDAuthState.h
+GoogleSignIn/Tests/Unit/GIDFailingOIDAuthState.m
+GoogleSignIn/Tests/Unit/GIDFakeFetcher.h
+GoogleSignIn/Tests/Unit/GIDFakeFetcher.m
+GoogleSignIn/Tests/Unit/GIDFakeFetcherService.h
+GoogleSignIn/Tests/Unit/GIDFakeFetcherService.m
+GoogleSignIn/Tests/Unit/GIDFakeMainBundle.h
+GoogleSignIn/Tests/Unit/GIDFakeMainBundle.m
+GoogleSignIn/Tests/Unit/GIDGoogleUser+Testing.h
+GoogleSignIn/Tests/Unit/GIDGoogleUser+Testing.m
+GoogleSignIn/Tests/Unit/GIDGoogleUserTest.m
+GoogleSignIn/Tests/Unit/GIDMDMPasscodeStateTests.m
+GoogleSignIn/Tests/Unit/GIDProfileData+Testing.h
+GoogleSignIn/Tests/Unit/GIDProfileData+Testing.m
+GoogleSignIn/Tests/Unit/GIDProfileDataTest.m
+GoogleSignIn/Tests/Unit/GIDScopesTest.m
+GoogleSignIn/Tests/Unit/GIDSignInButtonTest.m
+GoogleSignIn/Tests/Unit/GIDSignInCallbackSchemesTest.m
+GoogleSignIn/Tests/Unit/GIDSignInInternalOptionsTest.m
+GoogleSignIn/Tests/Unit/GIDSignInPreferencesTest.m
+GoogleSignIn/Tests/Unit/GIDSignInTest.m
+GoogleSignIn/Tests/Unit/GIDTokenTest.m
+GoogleSignIn/Tests/Unit/OIDAuthorizationRequest+Testing.h
+GoogleSignIn/Tests/Unit/OIDAuthorizationRequest+Testing.m
+GoogleSignIn/Tests/Unit/OIDAuthorizationResponse+Testing.h
+GoogleSignIn/Tests/Unit/OIDAuthorizationResponse+Testing.m
+GoogleSignIn/Tests/Unit/OIDAuthState+Testing.h
+GoogleSignIn/Tests/Unit/OIDAuthState+Testing.m
+GoogleSignIn/Tests/Unit/OIDServiceConfiguration+Testing.h
+GoogleSignIn/Tests/Unit/OIDServiceConfiguration+Testing.m
+GoogleSignIn/Tests/Unit/OIDTokenRequest+Testing.h
+GoogleSignIn/Tests/Unit/OIDTokenRequest+Testing.m
+GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.h
+GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.m
+GoogleSignIn/Tests/Unit/UIAlertAction+Testing.h
+GoogleSignIn/Tests/Unit/UIAlertAction+Testing.m
+LICENSE
+--------------------------------------------------------------------------------
 
 
 
@@ -2035,7 +2547,9 @@ Apache-2.0
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleSignIn?version=8.0.0&amp;org_id=37890
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleSignIn?version=8.0.0&amp;org_id=
+
+Dependency Path: GoogleSignIn
 
 --------------------------------------------------------------------------------
 Package Title: GoogleUtilities/Environment (8.0.2)
@@ -2049,6 +2563,11 @@ Package Depth: Transitive
 Apache-2.0, MIT
 
 * Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h
+--------------------------------------------------------------------------------
+
 
 
                                  Apache License
@@ -2302,6 +2821,8 @@ SOFTWARE.
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleUtilities%2FEnvironment?version=8.0.2&amp;org_id=
 
+Dependency Path: GoogleUtilities/Environment
+
 --------------------------------------------------------------------------------
 Package Title: GoogleUtilities/Logger (8.0.2)
 
@@ -2314,6 +2835,15 @@ Package Depth: Transitive
 Apache-2.0, MIT
 
 * Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+GoogleUtilities/Logger/GULLogger.m
+GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h
+GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h
+LICENSE
+README.md
+--------------------------------------------------------------------------------
+
 
 
                                  Apache License
@@ -2542,6 +3072,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2567,6 +3102,8 @@ SOFTWARE.
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleUtilities%2FLogger?version=8.0.2&amp;org_id=
 
+Dependency Path: GoogleUtilities/Logger
+
 --------------------------------------------------------------------------------
 Package Title: GoogleUtilities/Privacy (8.0.2)
 
@@ -2579,6 +3116,11 @@ Package Depth: Transitive
 MIT, Apache-2.0
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2600,6 +3142,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 * Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+README.md
+--------------------------------------------------------------------------------
+
 
 
                                  Apache License
@@ -2832,6 +3380,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleUtilities%2FPrivacy?version=8.0.2&amp;org_id=
 
+Dependency Path: GoogleUtilities/Privacy
+
 --------------------------------------------------------------------------------
 Package Title: GoogleUtilities/UserDefaults (8.0.2)
 
@@ -2844,6 +3394,14 @@ Package Depth: Transitive
 Apache-2.0, MIT
 
 * Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+GoogleUtilities/UserDefaults/GULUserDefaults.m
+GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h
+LICENSE
+README.md
+--------------------------------------------------------------------------------
+
 
 
                                  Apache License
@@ -3072,6 +3630,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -3097,6 +3660,8 @@ SOFTWARE.
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleUtilities%2FUserDefaults?version=8.0.2&amp;org_id=
 
+Dependency Path: GoogleUtilities/UserDefaults
+
 --------------------------------------------------------------------------------
 Package Title: GTMAppAuth (4.1.1)
 
@@ -3107,6 +3672,35 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+GTMAppAuth/Sources/AuthSession.swift
+GTMAppAuth/Sources/AuthSessionDelegate.swift
+GTMAppAuth/Sources/AuthSessionStore.swift
+GTMAppAuth/Sources/KeychainStore/GTMOAuth2Compatibility.swift
+GTMAppAuth/Sources/KeychainStore/KeychainAttribute.swift
+GTMAppAuth/Sources/KeychainStore/KeychainHelper.swift
+GTMAppAuth/Sources/KeychainStore/KeychainStore.swift
+GTMAppAuth/Tests/Helpers/AuthorizationTestingHelp.swift
+GTMAppAuth/Tests/Helpers/GTMAppAuthTestingHelpers.swift
+GTMAppAuth/Tests/Helpers/KeychainHelperFake.swift
+GTMAppAuth/Tests/Helpers/OIDAuthorizationRequestTesting.swift
+GTMAppAuth/Tests/Helpers/OIDAuthorizationResponseTesting.swift
+GTMAppAuth/Tests/Helpers/OIDAuthStateTesting.swift
+GTMAppAuth/Tests/Helpers/OIDRegistrationRequestTesting.swift
+GTMAppAuth/Tests/Helpers/OIDRegistrationResponseTesting.swift
+GTMAppAuth/Tests/Helpers/OIDServiceConfigurationTesting.swift
+GTMAppAuth/Tests/Helpers/OIDTokenRequestTesting.swift
+GTMAppAuth/Tests/Helpers/OIDTokenResponseTesting.swift
+GTMAppAuth/Tests/ObjCIntegration/GTMAuthSessionTests.m
+GTMAppAuth/Tests/ObjCIntegration/KeychainStore/GTMKeychainStoreTests.m
+GTMAppAuth/Tests/ObjCIntegration/KeychainStore/GTMOAuth2CompatibilityTests.m
+GTMAppAuth/Tests/Unit/AuthSessionTests.swift
+GTMAppAuth/Tests/Unit/KeychainStore/GTMOAuth2CompatibilityTests.swift
+GTMAppAuth/Tests/Unit/KeychainStore/KeychainStoreTests.swift
+LICENSE
+--------------------------------------------------------------------------------
 
 
 
@@ -3318,6 +3912,8 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMAppAuth?version=4.1.1&amp;org_id=
 
+Dependency Path: GTMAppAuth
+
 --------------------------------------------------------------------------------
 Package Title: GTMSessionFetcher/Core (3.5.0)
 
@@ -3328,6 +3924,20 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/Core/GTMSessionFetcher.m
+Sources/Core/GTMSessionFetcherLogging.m
+Sources/Core/GTMSessionFetcherService.m
+Sources/Core/GTMSessionFetcherService+Internal.h
+Sources/Core/GTMSessionUploadFetcher.m
+Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcher.h
+Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherLogging.h
+Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherService.h
+Sources/Core/Public/GTMSessionFetcher/GTMSessionUploadFetcher.h
+--------------------------------------------------------------------------------
 
 
 
@@ -3539,6 +4149,8 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMSessionFetcher%2FCore?version=3.5.0&amp;org_id=
 
+Dependency Path: GTMSessionFetcher/Core
+
 --------------------------------------------------------------------------------
 Package Title: GTMSessionFetcher/Full (3.5.0)
 
@@ -3549,6 +4161,17 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/Full/GTMGatherInputStream.m
+Sources/Full/GTMMIMEDocument.m
+Sources/Full/GTMReadMonitorInputStream.m
+Sources/Full/Public/GTMSessionFetcher/GTMGatherInputStream.h
+Sources/Full/Public/GTMSessionFetcher/GTMMIMEDocument.h
+Sources/Full/Public/GTMSessionFetcher/GTMReadMonitorInputStream.h
+--------------------------------------------------------------------------------
 
 
 
@@ -3760,16 +4383,23 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMSessionFetcher%2FFull?version=3.5.0&amp;org_id=
 
---------------------------------------------------------------------------------
-Package Title: JWTDecode (3.2.0)
+Dependency Path: GTMSessionFetcher/Full
 
-Package Locator: pod+JWTDecode$3.2.0
+--------------------------------------------------------------------------------
+Package Title: JWTDecode (3.3.0)
+
+Package Locator: pod+JWTDecode$3.3.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
 MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
 
 
 The MIT License (MIT)
@@ -3800,7 +4430,9 @@ SOFTWARE.
 
 Authors: support@auth0.com, rita.zerrizuela@auth0.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/JWTDecode?version=3.2.0&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/JWTDecode?version=3.3.0&amp;org_id=43030
+
+Dependency Path: JWTDecode
 
 --------------------------------------------------------------------------------
 Package Title: lottie-ios (4.5.1)
@@ -3812,6 +4444,11 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
 
 
                                  Apache License
@@ -4022,6 +4659,11 @@ Apache-2.0
 BSD-2-Clause, MIT
 
 * BSD-2-Clause *
+--------------------------------------------------------------------------------
+File matches:
+Sources/Private/Utility/Primitives/UnitBezier.swift
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2008 Apple Inc. All Rights Reserved.
 
@@ -4048,6 +4690,11 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+Sources/Private/EmbeddedLibraries/LRUCache/LRUCache.swift
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2021 Nick Lockwood. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -4075,6 +4722,8 @@ Authors: buba447@gmail.com, cal.stephens@airbnb.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/lottie-ios?version=4.5.1&amp;org_id=43030
 
+Dependency Path: lottie-ios
+
 --------------------------------------------------------------------------------
 Package Title: MSAL (1.6.3)
 
@@ -4085,6 +4734,11 @@ Package Depth: Direct
 
 * Declared Licenses *
 MIT
+
+--------------------------------------------------------------------------------
+File matches:
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDJsonResponsePreprocessor.m
+--------------------------------------------------------------------------------
 
 
 MIT License
@@ -4118,6 +4772,8 @@ Authors: nugetaad@microsoft.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=1.6.3&amp;org_id=
 
+Dependency Path: MSAL
+
 --------------------------------------------------------------------------------
 Package Title: MSAL/app-lib (1.6.3)
 
@@ -4128,6 +4784,510 @@ Package Depth: Transitive
 
 * Declared Licenses *
 MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationScheme.h
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationScheme.m
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemeBearer.h
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemeBearer.m
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemePop.h
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemePop.m
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemeSshCert.h
+MSAL/IdentityCore/IdentityCore/src/auth_scheme/MSIDAuthenticationSchemeSshCert.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationGetAccountsRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationGetAccountsRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationRemoveAccountRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationRemoveAccountRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationSignoutFromDeviceRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/account_request/MSIDBrokerOperationSignoutFromDeviceRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrokerOperationBrowserNativeMessageRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrokerOperationBrowserNativeMessageRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetCookiesRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetCookiesRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetSupportedContractsRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetSupportedContractsRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageGetTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageSignOutRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/browser_native_message_request/MSIDBrowserNativeMessageSignOutRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/interactive_token_request/MSIDBrokerOperationInteractiveTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/interactive_token_request/MSIDBrokerOperationInteractiveTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBaseBrokerOperationRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBaseBrokerOperationRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationGetDeviceInfoRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationGetDeviceInfoRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationPasskeyAssertionRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationPasskeyAssertionRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationPasskeyCredentialRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationPasskeyCredentialRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/MSIDBrokerOperationRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/silent_token_request/MSIDBrokerOperationSilentTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/silent_token_request/MSIDBrokerOperationSilentTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/sso_cookies_request/MSIDBrokerOperationGetSsoCookiesRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/sso_cookies_request/MSIDBrokerOperationGetSsoCookiesRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/token_request/MSIDBrokerOperationBrowserTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/token_request/MSIDBrokerOperationBrowserTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/token_request/MSIDBrokerOperationTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/token_request/MSIDBrokerOperationTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/request/token_request/MSIDBrowserRequestValidating.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrokerOperationBrowserNativeMessageResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrokerOperationBrowserNativeMessageResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetCookiesResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetCookiesResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetSupportedContractsResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetSupportedContractsResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageGetTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageSignOutResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/browser_native_message_response/MSIDBrowserNativeMessageSignOutResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerBrowserOperationResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerBrowserOperationResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerNativeAppOperationResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerNativeAppOperationResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetAccountsResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetAccountsResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetPasskeyAssertionResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetPasskeyAssertionResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetPasskeyCredentialResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetPasskeyCredentialResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetSsoCookiesResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationGetSsoCookiesResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationResponseHandling.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDBrokerOperationTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDDeviceInfo.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDDeviceInfo.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDPasskeyAssertion.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDPasskeyAssertion.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDPasskeyCredential.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/MSIDPasskeyCredential.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDCredentialHeader.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDCredentialHeader.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDCredentialInfo.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDCredentialInfo.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDDeviceHeader.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDDeviceHeader.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDPrtHeader.h
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDPrtHeader.m
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDAccountCredentialCache.h
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDAccountCredentialCache.m
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDDefaultTokenCacheAccessor.h
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDDefaultTokenCacheAccessor.m
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDLegacyTokenCacheAccessor.h
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDLegacyTokenCacheAccessor.m
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDTokenFilteringHelper.h
+MSAL/IdentityCore/IdentityCore/src/cache/accessor/MSIDTokenFilteringHelper.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/mac/MSIDAssymetricKeyLoginKeychainGenerator.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/mac/MSIDAssymetricKeyLoginKeychainGenerator.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyGenerating.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyGeneratorFactory.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyGeneratorFactory.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyKeychainGenerator.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyKeychainGenerator.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyLookupAttributes.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyLookupAttributes.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyPair.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyPair.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyPairWithCert.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDAssymetricKeyPairWithCert.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDSymmetricKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDSymmetricKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDWPJKeyPairWithCert.h
+MSAL/IdentityCore/IdentityCore/src/cache/crypto/MSIDWPJKeyPairWithCert.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDAppMetadataCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDAppMetadataCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDAppMetadataCacheQuery.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDAppMetadataCacheQuery.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultAccountCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultAccountCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultAccountCacheQuery.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultAccountCacheQuery.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultCredentialCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultCredentialCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultCredentialCacheQuery.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDDefaultCredentialCacheQuery.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDLegacyTokenCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDLegacyTokenCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDLegacyTokenCacheQuery.h
+MSAL/IdentityCore/IdentityCore/src/cache/key/MSIDLegacyTokenCacheQuery.m
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacACLKeychainAccessor.h
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacACLKeychainAccessor.m
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacCredentialStorageItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacCredentialStorageItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacKeychainTokenCache.h
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacKeychainTokenCache.m
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacLegacyCachePersistenceHandler.h
+MSAL/IdentityCore/IdentityCore/src/cache/mac/MSIDMacLegacyCachePersistenceHandler.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadata.h
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadata.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadataCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadataCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadataCacheKey.h
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/accountMetadata/MSIDAccountMetadataCacheKey.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDAccountMetadataCacheAccessor.h
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDAccountMetadataCacheAccessor.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDMetadataCache.h
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDMetadataCache.m
+MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDMetadataCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheAccessor.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheConfig.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheConfig.m
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDExtendedTokenCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDKeychainTokenCache.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDKeychainTokenCache.m
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDKeychainTokenCache+Internal.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDMacTokenCache.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDMacTokenCache.m
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDTokenCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDUserInformation.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDUserInformation.m
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDCacheItemJsonSerializer.h
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDCacheItemJsonSerializer.m
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDCacheItemSerializing.h
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDExtendedCacheItemSerializing.h
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDKeyedArchiverSerializer.h
+MSAL/IdentityCore/IdentityCore/src/cache/serializers/MSIDKeyedArchiverSerializer.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/Matchers/MSIDAccountCacheItem+MSIDAccountMatchers.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/Matchers/MSIDAccountCacheItem+MSIDAccountMatchers.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDAccountCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDAccountCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDAppMetadataCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDAppMetadataCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDCredentialCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDCredentialCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDCredentialCacheItem+MSIDBaseToken.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDCredentialCacheItem+MSIDBaseToken.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDKeyGenerator.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDLegacyTokenCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDLegacyTokenCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDPRTCacheItem.h
+MSAL/IdentityCore/IdentityCore/src/cache/token/MSIDPRTCacheItem.m
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDClaimsRequest.h
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDClaimsRequest.m
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDClaimsRequest+ClientCapabilities.h
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDClaimsRequest+ClientCapabilities.m
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDIndividualClaimRequest.h
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDIndividualClaimRequest.m
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDIndividualClaimRequestAdditionalInfo.h
+MSAL/IdentityCore/IdentityCore/src/claims/MSIDIndividualClaimRequestAdditionalInfo.m
+MSAL/IdentityCore/IdentityCore/src/configuration/MSIDConfiguration.h
+MSAL/IdentityCore/IdentityCore/src/configuration/MSIDConfiguration.m
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDAuthorizeWebRequestConfiguration.h
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDAuthorizeWebRequestConfiguration.m
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDBaseWebRequestConfiguration.h
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDBaseWebRequestConfiguration.m
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDSignoutWebRequestConfiguration.h
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDSignoutWebRequestConfiguration.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/ios/MSIDBrokerInteractiveController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/ios/MSIDBrokerInteractiveController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionInteractiveTokenRequestController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionInteractiveTokenRequestController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionSignoutController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionSignoutController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionSilentTokenRequestController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionSilentTokenRequestController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDBaseRequestController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDBaseRequestController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDLocalInteractiveController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDLocalInteractiveController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDLocalInteractiveController+Internal.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDRequestControllerFactory.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDRequestControllerFactory.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDRequestControlling.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDSignoutController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDSignoutController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDSilentController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDSilentController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/MSIDSilentController+Internal.h
+MSAL/IdentityCore/IdentityCore/src/IdentityCore_Internal.h
+MSAL/IdentityCore/IdentityCore/src/intune/data_source/MSIDIntuneCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/intune/data_source/MSIDIntuneInMemoryCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/intune/data_source/MSIDIntuneInMemoryCacheDataSource.m
+MSAL/IdentityCore/IdentityCore/src/intune/data_source/MSIDIntuneUserDefaultsCacheDataSource.h
+MSAL/IdentityCore/IdentityCore/src/intune/data_source/MSIDIntuneUserDefaultsCacheDataSource.m
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneApplicationStateManager.h
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneApplicationStateManager.m
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneEnrollmentIdsCache.h
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneEnrollmentIdsCache.m
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneMAMResourcesCache.h
+MSAL/IdentityCore/IdentityCore/src/intune/MSIDIntuneMAMResourcesCache.m
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDLogger.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDLogger.m
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDLogger+Internal.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDLogger+Trace.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDLoggerConnecting.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedHashableLogParameter.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedHashableLogParameter.m
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedLogParameter.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedLogParameter.m
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedUsernameLogParameter.h
+MSAL/IdentityCore/IdentityCore/src/logger/MSIDMaskedUsernameLogParameter.m
+MSAL/IdentityCore/IdentityCore/src/MSIDAADNetworkConfiguration.h
+MSAL/IdentityCore/IdentityCore/src/MSIDAADNetworkConfiguration.m
+MSAL/IdentityCore/IdentityCore/src/MSIDBasicContext.h
+MSAL/IdentityCore/IdentityCore/src/MSIDBasicContext.m
+MSAL/IdentityCore/IdentityCore/src/MSIDBrokerConstants.h
+MSAL/IdentityCore/IdentityCore/src/MSIDBrokerConstants.m
+MSAL/IdentityCore/IdentityCore/src/MSIDCache.h
+MSAL/IdentityCore/IdentityCore/src/MSIDCache.m
+MSAL/IdentityCore/IdentityCore/src/MSIDClientSDKType.h
+MSAL/IdentityCore/IdentityCore/src/MSIDClientSDKType.m
+MSAL/IdentityCore/IdentityCore/src/MSIDConstants.h
+MSAL/IdentityCore/IdentityCore/src/MSIDConstants.m
+MSAL/IdentityCore/IdentityCore/src/MSIDDefaultErrorConverter.h
+MSAL/IdentityCore/IdentityCore/src/MSIDDefaultErrorConverter.m
+MSAL/IdentityCore/IdentityCore/src/MSIDDeviceId.h
+MSAL/IdentityCore/IdentityCore/src/MSIDDeviceId.m
+MSAL/IdentityCore/IdentityCore/src/MSIDDRSType.h
+MSAL/IdentityCore/IdentityCore/src/MSIDError.h
+MSAL/IdentityCore/IdentityCore/src/MSIDError.m
+MSAL/IdentityCore/IdentityCore/src/MSIDErrorConverter.h
+MSAL/IdentityCore/IdentityCore/src/MSIDErrorConverter.m
+MSAL/IdentityCore/IdentityCore/src/MSIDErrorConverting.h
+MSAL/IdentityCore/IdentityCore/src/MSIDExternalAADCacheSeeder.h
+MSAL/IdentityCore/IdentityCore/src/MSIDExternalAADCacheSeeder.m
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableFactory.h
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableFactory.m
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableTypes.h
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableTypes.m
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializer.h
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializer.m
+MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializing.h
+MSAL/IdentityCore/IdentityCore/src/MSIDJwtAlgorithm.h
+MSAL/IdentityCore/IdentityCore/src/MSIDJwtAlgorithm.m
+MSAL/IdentityCore/IdentityCore/src/MSIDNotifications.h
+MSAL/IdentityCore/IdentityCore/src/MSIDNotifications.m
+MSAL/IdentityCore/IdentityCore/src/MSIDOAuth2Constants.h
+MSAL/IdentityCore/IdentityCore/src/MSIDOAuth2Constants.m
+MSAL/IdentityCore/IdentityCore/src/MSIDProviderType.h
+MSAL/IdentityCore/IdentityCore/src/MSIDProviderType.m
+MSAL/IdentityCore/IdentityCore/src/MSIDRequestContext.h
+MSAL/IdentityCore/IdentityCore/src/MSIDTelemetryStringSerializable.h
+MSAL/IdentityCore/IdentityCore/src/MSIDVersion.h
+MSAL/IdentityCore/IdentityCore/src/MSIDWebResponseOperationConstants.h
+MSAL/IdentityCore/IdentityCore/src/MSIDWebResponseOperationConstants.m
+MSAL/IdentityCore/IdentityCore/src/network/error_handler/MSIDAADRequestErrorHandler.h
+MSAL/IdentityCore/IdentityCore/src/network/error_handler/MSIDAADRequestErrorHandler.m
+MSAL/IdentityCore/IdentityCore/src/network/error_handler/MSIDHttpRequestErrorHandling.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDAADEndpointProvider.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDAADEndpointProvider.m
+MSAL/IdentityCore/IdentityCore/src/network/MSIDAADEndpointProviding.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDHttpRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDHttpRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/MSIDHttpRequestProtocol.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDURLSessionManager.h
+MSAL/IdentityCore/IdentityCore/src/network/MSIDURLSessionManager.m
+MSAL/IdentityCore/IdentityCore/src/network/request_configurator/MSIDAADRequestConfigurator.h
+MSAL/IdentityCore/IdentityCore/src/network/request_configurator/MSIDAADRequestConfigurator.m
+MSAL/IdentityCore/IdentityCore/src/network/request_configurator/MSIDHttpRequestConfiguratorProtocol.h
+MSAL/IdentityCore/IdentityCore/src/network/request_configurator/MSIDOAuthRequestConfigurator.h
+MSAL/IdentityCore/IdentityCore/src/network/request_configurator/MSIDOAuthRequestConfigurator.m
+MSAL/IdentityCore/IdentityCore/src/network/request_serializer/MSIDRequestSerialization.h
+MSAL/IdentityCore/IdentityCore/src/network/request_serializer/MSIDUrlRequestSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/request_serializer/MSIDUrlRequestSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request_server_telemetry/MSIDAADTokenRequestServerTelemetry.h
+MSAL/IdentityCore/IdentityCore/src/network/request_server_telemetry/MSIDAADTokenRequestServerTelemetry.m
+MSAL/IdentityCore/IdentityCore/src/network/request_server_telemetry/MSIDHttpRequestServerTelemetryHandling.h
+MSAL/IdentityCore/IdentityCore/src/network/request_telemetry/MSIDHttpRequestTelemetry.h
+MSAL/IdentityCore/IdentityCore/src/network/request_telemetry/MSIDHttpRequestTelemetry.m
+MSAL/IdentityCore/IdentityCore/src/network/request_telemetry/MSIDHttpRequestTelemetryHandling.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataResponse.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataResponse.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataResponseSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityMetadataResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityValidationRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorityValidationRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorizationCodeGrantRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorizationCodeGrantRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorizationCodeRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADAuthorizationCodeRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADOpenIdConfigurationInfoResponseSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADOpenIdConfigurationInfoResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADRefreshTokenGrantRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADRefreshTokenGrantRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADV1AuthorizationCodeRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADV1AuthorizationCodeRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADV1RefreshTokenGrantRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAADV1RefreshTokenGrantRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAuthorizationCodeGrantRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDAuthorizationCodeGrantRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryResponseSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDOpenIdConfigurationInfoRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDOpenIdConfigurationInfoRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDRefreshTokenGrantRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDRefreshTokenGrantRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDUrlResponse.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDUrlResponse.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDUrlResponseSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDUrlResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDWebFingerRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDWebFingerRequest.m
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/MSIDHttpResponseSerializer.h
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/MSIDHttpResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/MSIDResponseSerialization.h
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDAADJsonResponsePreprocessor.h
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDAADJsonResponsePreprocessor.m
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDJsonResponsePreprocessor.h
+MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDJsonResponsePreprocessor.m
+MSAL/IdentityCore/IdentityCore/src/network/session_delegate/MSIDURLSessionDelegate.h
+MSAL/IdentityCore/IdentityCore/src/network/session_delegate/MSIDURLSessionDelegate.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADIdTokenClaimsFactory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADIdTokenClaimsFactory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADOauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADOauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADWebviewFactory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDAADWebviewFactory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDClientInfo.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_base/MSIDClientInfo.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1BrokerResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1BrokerResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1IdTokenClaims.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1IdTokenClaims.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1Oauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1Oauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1TokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1TokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1WebviewFactory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v1/MSIDAADV1WebviewFactory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2BrokerResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2BrokerResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2IdTokenClaims.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2IdTokenClaims.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2Oauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2Oauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2Oauth2FactoryForV1Request.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2Oauth2FactoryForV1Request.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2TokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2TokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2TokenResponseForV1Request.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2TokenResponseForV1Request.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2WebviewFactory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/aad_v2/MSIDAADV2WebviewFactory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccount.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccount.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccountIdentifier.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccountIdentifier.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccountType.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/account/MSIDAccountType.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/appmetadata/MSIDGeneralCacheItemType.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/appmetadata/MSIDGeneralCacheItemType.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2CIdTokenClaims.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2CIdTokenClaims.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2COauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2COauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2CTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/b2c/MSIDB2CTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/ciam/MSIDCIAMOauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/ciam/MSIDCIAMOauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/ciam/MSIDCIAMTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/ciam/MSIDCIAMTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDBrokerResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDBrokerResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDBrokerResponse+Internal.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDExternalSSOContext.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDExternalSSOContext.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDIdTokenClaims.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDIdTokenClaims.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDOauth2Factory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDOauth2Factory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDOauth2Factory+Internal.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDTokenResponse.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDTokenResponse.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDTokenResponse+Internal.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDWebviewFactory.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/MSIDWebviewFactory.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDAccessToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDAccessToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDAccessTokenWithAuthScheme.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDAccessTokenWithAuthScheme.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDBaseToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDBaseToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDCredentialType.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDCredentialType.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDIdToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDIdToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacyAccessToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacyAccessToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacyRefreshToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacyRefreshToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacySingleResourceToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacySingleResourceToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDPrimaryRefreshToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDPrimaryRefreshToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDRefreshToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDRefreshToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDV1IdToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDV1IdToken.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/protocols/MSIDLegacyCredentialCacheCompatible.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/protocols/MSIDRefreshableToken.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDBrokerInvocationOptions.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDBrokerInvocationOptions.m
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDInteractiveRequestParameters.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDInteractiveRequestParameters.m
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDInteractiveTokenRequestParameters.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDInteractiveTokenRequestParameters.m
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters.m
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters+Broker.h
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters+Broker.m
+MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters+Internal.h
+MSAL/IdentityCore/IdentityCore/src/pop_manager/MSIDDevicePopManager.h
+MSAL/IdentityCore/IdentityCore/src/pop_manager/MSIDDevicePopManager.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerCryptoProvider.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerCryptoProvider.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerKeyProvider.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerKeyProvider.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetAccountsRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetAccountsRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest+Internal.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDeviceInfoRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDeviceInfoRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetSsoCookiesRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetSsoCookiesRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionInteractiveTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionInteractiveTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionOperationRequestDelegate.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionOperationRequestDelegate.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyAssertionRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyAssertionRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyCredentialRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDAuthorizationCodeResult.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDAuthorizationCodeResult.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveAuthorizationCodeRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveAuthorizationCodeRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveRequestControlling.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest+Internal.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDOIDCSignoutRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDOIDCSignoutRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDSilentTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDSilentTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDTokenResponseHandler.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDTokenResponseHandler.m
+--------------------------------------------------------------------------------
 
 
 MIT License
@@ -4160,6 +5320,8 @@ SOFTWARE.
 Authors: nugetaad@microsoft.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2Fapp-lib?version=1.6.3&amp;org_id=
+
+Dependency Path: MSAL/app-lib
 
 --------------------------------------------------------------------------------
 Package Title: OpenSSL (3.4.0)
@@ -4362,6 +5524,10 @@ THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED WAR
 The licence and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. this code cannot simply be copied and put under another distribution licence [including the GNU Public Licence.]
 
 
+* Package Info *
+
+Dependency Path: 616132
+
 --------------------------------------------------------------------------------
 Package Title: Optional-Lite (3.6.0)
 
@@ -4372,6 +5538,25 @@ Package Depth: Direct
 
 * Declared Licenses *
 BSL-1.0
+
+--------------------------------------------------------------------------------
+File matches:
+optional-lite-3.6.0/CMakeLists.txt
+optional-lite-3.6.0/example/CMakeLists.txt
+optional-lite-3.6.0/include/nonstd/optional.hpp
+optional-lite-3.6.0/LICENSE.txt
+optional-lite-3.6.0/README.md
+optional-lite-3.6.0/script/create-cov-rpt.py
+optional-lite-3.6.0/script/create-vcpkg.py
+optional-lite-3.6.0/script/update-version.py
+optional-lite-3.6.0/script/upload-conan.py
+optional-lite-3.6.0/test/CMakeLists.txt
+optional-lite-3.6.0/test/lest/lest_cpp03.hpp
+optional-lite-3.6.0/test/Makefile
+optional-lite-3.6.0/test/optional-main.t.cpp
+optional-lite-3.6.0/test/optional-main.t.hpp
+optional-lite-3.6.0/test/optional.t.cpp
+--------------------------------------------------------------------------------
 
 
 Boost Software License - Version 1.0 - August 17th, 2003
@@ -4400,6 +5585,10 @@ DEALINGS IN THE SOFTWARE.
 
 
 
+* Package Info *
+
+Dependency Path: 43030/Optional-Lite
+
 --------------------------------------------------------------------------------
 Package Title: PromisesObjC (2.4.0)
 
@@ -4410,6 +5599,70 @@ Package Depth: Transitive
 
 * Declared Licenses *
 Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+Sources/FBLPromises/FBLPromise.m
+Sources/FBLPromises/FBLPromise+All.m
+Sources/FBLPromises/FBLPromise+Always.m
+Sources/FBLPromises/FBLPromise+Any.m
+Sources/FBLPromises/FBLPromise+Async.m
+Sources/FBLPromises/FBLPromise+Await.m
+Sources/FBLPromises/FBLPromise+Catch.m
+Sources/FBLPromises/FBLPromise+Delay.m
+Sources/FBLPromises/FBLPromise+Do.m
+Sources/FBLPromises/FBLPromise+Race.m
+Sources/FBLPromises/FBLPromise+Recover.m
+Sources/FBLPromises/FBLPromise+Reduce.m
+Sources/FBLPromises/FBLPromise+Retry.m
+Sources/FBLPromises/FBLPromise+Testing.m
+Sources/FBLPromises/FBLPromise+Then.m
+Sources/FBLPromises/FBLPromise+Timeout.m
+Sources/FBLPromises/FBLPromise+Validate.m
+Sources/FBLPromises/FBLPromise+Wrap.m
+Sources/FBLPromises/FBLPromiseError.m
+Sources/FBLPromises/include/FBLPromise.h
+Sources/FBLPromises/include/FBLPromise+All.h
+Sources/FBLPromises/include/FBLPromise+Always.h
+Sources/FBLPromises/include/FBLPromise+Any.h
+Sources/FBLPromises/include/FBLPromise+Async.h
+Sources/FBLPromises/include/FBLPromise+Await.h
+Sources/FBLPromises/include/FBLPromise+Catch.h
+Sources/FBLPromises/include/FBLPromise+Delay.h
+Sources/FBLPromises/include/FBLPromise+Do.h
+Sources/FBLPromises/include/FBLPromise+Race.h
+Sources/FBLPromises/include/FBLPromise+Recover.h
+Sources/FBLPromises/include/FBLPromise+Reduce.h
+Sources/FBLPromises/include/FBLPromise+Retry.h
+Sources/FBLPromises/include/FBLPromise+Testing.h
+Sources/FBLPromises/include/FBLPromise+Then.h
+Sources/FBLPromises/include/FBLPromise+Timeout.h
+Sources/FBLPromises/include/FBLPromise+Validate.h
+Sources/FBLPromises/include/FBLPromise+Wrap.h
+Sources/FBLPromises/include/FBLPromiseError.h
+Sources/FBLPromises/include/FBLPromisePrivate.h
+Sources/FBLPromises/include/FBLPromises.h
+Sources/FBLPromisesTestHelpers/include/FBLPromisesTestHelpers.h
+Tests/FBLPromisesPerformanceTests/FBLPromise+ThenPerformanceTests.m
+Tests/FBLPromisesTests/FBLPromise+AllTests.m
+Tests/FBLPromisesTests/FBLPromise+AlwaysTests.m
+Tests/FBLPromisesTests/FBLPromise+AnyTests.m
+Tests/FBLPromisesTests/FBLPromise+AsyncTests.m
+Tests/FBLPromisesTests/FBLPromise+AwaitTests.m
+Tests/FBLPromisesTests/FBLPromise+CatchTests.m
+Tests/FBLPromisesTests/FBLPromise+DelayTests.m
+Tests/FBLPromisesTests/FBLPromise+DoTests.m
+Tests/FBLPromisesTests/FBLPromise+RaceTests.m
+Tests/FBLPromisesTests/FBLPromise+RecoverTests.m
+Tests/FBLPromisesTests/FBLPromise+ReduceTests.m
+Tests/FBLPromisesTests/FBLPromise+RetryTests.m
+Tests/FBLPromisesTests/FBLPromise+ThenTests.m
+Tests/FBLPromisesTests/FBLPromise+TimeoutTests.m
+Tests/FBLPromisesTests/FBLPromise+ValidateTests.m
+Tests/FBLPromisesTests/FBLPromise+WrapTests.m
+Tests/FBLPromisesTests/FBLPromiseTests.m
+--------------------------------------------------------------------------------
 
 
 
@@ -4621,10 +5874,12 @@ Apache-2.0
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/PromisesObjC?version=2.4.0&amp;org_id=
 
---------------------------------------------------------------------------------
-Package Title: SQLCipher (4.6.1)
+Dependency Path: PromisesObjC
 
-Package Locator: pod+SQLCipher$4.6.1
+--------------------------------------------------------------------------------
+Package Title: SQLCipher (4.7.0)
+
+Package Locator: pod+SQLCipher$4.7.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -4632,8 +5887,135 @@ Package Depth: Transitive
 * Declared Licenses *
 BSD-3-Clause
 
+--------------------------------------------------------------------------------
+File matches:
+LICENSE.txt
+--------------------------------------------------------------------------------
 
-Copyright (c) 2008-2023, ZETETIC LLC
+
+Copyright (c) 2025, ZETETIC LLC
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the ZETETIC LLC nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY ZETETIC LLC ''AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL ZETETIC LLC BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+* Other Licenses *
+public-domain
+
+--------------------------------------------------------------------------------
+File matches:
+sqlite3.c
+--------------------------------------------------------------------------------
+
+
+* Package Info *
+
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.7.0&amp;org_id=43030
+
+Dependency Path: SQLCipher
+
+--------------------------------------------------------------------------------
+Package Title: SQLCipher/common (4.7.0)
+
+Package Locator: pod+SQLCipher/common$4.7.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-3-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE.txt
+README.md
+sqlite3.c
+--------------------------------------------------------------------------------
+
+
+Copyright (c) 2025, ZETETIC LLC
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the ZETETIC LLC nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY ZETETIC LLC ''AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL ZETETIC LLC BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+* Other Licenses *
+public-domain
+
+--------------------------------------------------------------------------------
+File matches:
+sqlite3.c
+sqlite3.h
+--------------------------------------------------------------------------------
+
+
+* Package Info *
+
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.7.0&amp;org_id=43030
+
+Dependency Path: SQLCipher/common
+
+--------------------------------------------------------------------------------
+Package Title: SQLCipher/standard (4.7.0)
+
+Package Locator: pod+SQLCipher/standard$4.7.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-3-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE.txt
+README.md
+--------------------------------------------------------------------------------
+
+
+Copyright (c) 2025, ZETETIC LLC
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -4662,93 +6044,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.6.1&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.7.0&amp;org_id=43030
 
---------------------------------------------------------------------------------
-Package Title: SQLCipher/common (4.6.1)
-
-Package Locator: pod+SQLCipher/common$4.6.1
-
-Package Depth: Transitive
---------------------------------------------------------------------------------
-
-* Declared Licenses *
-BSD-3-Clause
-
-
-Copyright (c) 2008-2023, ZETETIC LLC
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * Neither the name of the ZETETIC LLC nor the
-      names of its contributors may be used to endorse or promote products
-      derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY ZETETIC LLC ''AS IS'' AND ANY
-EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL ZETETIC LLC BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-
-* Package Info *
-
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.6.1&amp;org_id=43030
-
---------------------------------------------------------------------------------
-Package Title: SQLCipher/standard (4.6.1)
-
-Package Locator: pod+SQLCipher/standard$4.6.1
-
-Package Depth: Transitive
---------------------------------------------------------------------------------
-
-* Declared Licenses *
-BSD-3-Clause
-
-
-Copyright (c) 2008-2023, ZETETIC LLC
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * Neither the name of the ZETETIC LLC nor the
-      names of its contributors may be used to endorse or promote products
-      derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY ZETETIC LLC ''AS IS'' AND ANY
-EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL ZETETIC LLC BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-
-* Package Info *
-
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.6.1&amp;org_id=43030
+Dependency Path: SQLCipher/standard
 
 --------------------------------------------------------------------------------
 Package Title: SQLite.swift/SQLCipher (0.15.3)
@@ -4760,6 +6058,33 @@ Package Depth: Transitive
 
 * Declared Licenses *
 MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE.txt
+Sources/SQLite/Core/Backup.swift
+Sources/SQLite/Core/Blob.swift
+Sources/SQLite/Core/Connection.swift
+Sources/SQLite/Core/Statement.swift
+Sources/SQLite/Core/Value.swift
+Sources/SQLite/Extensions/FTS4.swift
+Sources/SQLite/Extensions/FTS5.swift
+Sources/SQLite/Extensions/RTree.swift
+Sources/SQLite/Foundation.swift
+Sources/SQLite/Helpers.swift
+Sources/SQLite/Typed/AggregateFunctions.swift
+Sources/SQLite/Typed/Coding.swift
+Sources/SQLite/Typed/Collation.swift
+Sources/SQLite/Typed/CoreFunctions.swift
+Sources/SQLite/Typed/CustomFunctions.swift
+Sources/SQLite/Typed/DateAndTimeFunctions.swift
+Sources/SQLite/Typed/Expression.swift
+Sources/SQLite/Typed/Operators.swift
+Sources/SQLite/Typed/Query.swift
+Sources/SQLite/Typed/Query+with.swift
+Sources/SQLite/Typed/Schema.swift
+Sources/SQLite/Typed/Setter.swift
+--------------------------------------------------------------------------------
 
 
 (The MIT License)
@@ -4789,6 +6114,11 @@ SOFTWARE.
 * Other Licenses *
 apache-2.0-runtime-library-exception
 
+--------------------------------------------------------------------------------
+File matches:
+README.md
+--------------------------------------------------------------------------------
+
 
 ## Runtime Library Exception to the Apache 2.0 License: ##
 
@@ -4804,6 +6134,8 @@ Authors: stephen@stephencelis.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLite.swift%2FSQLCipher?version=0.15.3&amp;org_id=
 
+Dependency Path: SQLite.swift/SQLCipher
+
 --------------------------------------------------------------------------------
 Package Title: SwiftCBOR (0.5.0)
 
@@ -4814,6 +6146,11 @@ Package Depth: Direct
 
 * Declared Licenses *
 Unlicense
+
+--------------------------------------------------------------------------------
+File matches:
+UNLICENSE
+--------------------------------------------------------------------------------
 
 
 This is free and unencumbered software released into the public domain.
@@ -4829,6 +6166,8 @@ For more information, please refer to <http://unlicense.org/>
 Authors: val@packett.cool, hamchapman@gmail.com
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/SwiftCBOR?version=0.5.0&amp;org_id=43030
+
+Dependency Path: SwiftCBOR
 
 
 ================================================================================
@@ -5716,7 +7055,7 @@ For these and/or other purposes and motivations, and without any expectation of 
 
 * BSD-3-Clause *
 
-Copyright (c) 2008-2023, ZETETIC LLC
+Copyright (c) 2025, ZETETIC LLC
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -6075,41 +7414,45 @@ derivative of this code cannot be changed.  i.e. this code cannot simply be
 copied and put under another distribution licence
 [including the GNU Public Licence.]
 
+* public-domain *
 
-================================================================================
+No license text available
 
-                                   Copyrights
 
-================================================================================
+    ================================================================================
 
-Apache License 2.0
+                                           Copyrights
 
-Copyright (c) 2015 Dropbox, Inc.
+    ================================================================================
 
-Copyright (c) 2023 Google LLC
-
-Copyright (c) 2015 Google Inc. All Rights Reserved.
-
-Copyright (c) 2021 Google LLC
-
-Copyright (c) 2012 Google Inc.
-
-Copyright (c) 2022 Google LLC
-
-Copyright (c) 2014 Google Inc. All rights reserved.
-
-Copyright (c) 2018 Google Inc. All rights reserved.
-
-Copyright (c) 2014 Dropbox, Inc.
-
-Copyright (c) 2017 Google
-
-Copyright (c) 2018 Google
-
-Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
-
-Copyright (c) 2018 Airbnb, Inc.
-Apache License
+            Apache License 2.0
+        
+            Copyright (c) 2015 Dropbox, Inc.
+        
+            Copyright (c) 2023 Google LLC
+        
+            Copyright (c) 2015 Google Inc. All Rights Reserved.
+        
+            Copyright (c) 2021 Google LLC
+        
+            Copyright (c) 2012 Google Inc.
+        
+            Copyright (c) 2022 Google LLC
+        
+            Copyright (c) 2014 Google Inc. All rights reserved.
+        
+            Copyright (c) 2018 Google Inc. All rights reserved.
+        
+            Copyright (c) 2014 Dropbox, Inc.
+        
+            Copyright (c) 2017 Google
+        
+            Copyright (c) 2018 Google
+        
+            Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
+        
+            Copyright (c) 2018 Airbnb, Inc.
+                Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    1. Definitions.
@@ -6159,11 +7502,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
---------------------------------------------------------------------------------
-BSD 2-Clause "Simplified" License
-
-Copyright (c) 2008 Apple Inc. All Rights Reserved.
-Copyright (c) <year> <owner>
+        --------------------------------------------------------------------------------
+            BSD 2-Clause "Simplified" License
+        
+            Copyright (c) 2008 Apple Inc. All Rights Reserved.
+                Copyright (c) <year> <owner>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -6188,21 +7531,21 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
---------------------------------------------------------------------------------
-BSD 3-Clause "New" or "Revised" License
-
-Copyright (c) 2010-2024 Deusty, LLC
-
-Copyright (c) 2014 Bogdan Cristea and LTE Engineering Software,
-
-Copyright (c) 2000-2006 www.hamcrest.org
-
-Copyright (c) 2008, 2009, 2010 Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg
-
-Copyright (c) 2002-2008 EPFL, Lausanne, unless otherwise specified.
-
-Copyright (c) 2008-2023 ZETETIC LLC
-Copyright (c) <year> <owner>
+        --------------------------------------------------------------------------------
+            BSD 3-Clause "New" or "Revised" License
+        
+            Copyright (c) 2010-2024 Deusty, LLC
+        
+            Copyright (c) 2014 Bogdan Cristea and LTE Engineering Software,
+        
+            Copyright (c) 2000-2006 www.hamcrest.org
+        
+            Copyright (c) 2008, 2009, 2010 Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg
+        
+            Copyright (c) 2002-2008 EPFL, Lausanne, unless otherwise specified.
+        
+            Copyright (c) 2025 ZETETIC LLC
+                Copyright (c) <year> <owner>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -6230,45 +7573,45 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
---------------------------------------------------------------------------------
-BSD Source Code Attribution
-Copyright (c) 2011, Deusty, LLC
+        --------------------------------------------------------------------------------
+            BSD Source Code Attribution
+                Copyright (c) 2011, Deusty, LLC
 All rights reserved.
 Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
    * Neither the name of Deusty nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission of Deusty, LLC.
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
---------------------------------------------------------------------------------
-Boost Software License 1.0
-
-Copyright (c) 2011 - 2012 Andrzej Krzemienski.
-
-Copyright (c) 2016-2018 by Martin Moene
-
-Copyright (c) 2017-2018 by Martin Moene
-
-Copyright (c) 2014-2021 Martin Moene
-
-Copyright (c) 2019-2019 by Martin Moene
-
-Copyright (c) 2014 by Martin Moene
-
-Copyright (c) 2014-2021 by Martin Moene
-
-Copyright (c) 2021-2021 by Martin Moene
-
-Copyright (c) 2013-2018 by Martin Moene
-Boost Software License - Version 1.0 - August 17th, 2003
+        --------------------------------------------------------------------------------
+            Boost Software License 1.0
+        
+            Copyright (c) 2011 - 2012 Andrzej Krzemienski.
+        
+            Copyright (c) 2016-2018 by Martin Moene
+        
+            Copyright (c) 2017-2018 by Martin Moene
+        
+            Copyright (c) 2014-2021 Martin Moene
+        
+            Copyright (c) 2019-2019 by Martin Moene
+        
+            Copyright (c) 2014 by Martin Moene
+        
+            Copyright (c) 2014-2021 by Martin Moene
+        
+            Copyright (c) 2021-2021 by Martin Moene
+        
+            Copyright (c) 2013-2018 by Martin Moene
+                Boost Software License - Version 1.0 - August 17th, 2003
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
---------------------------------------------------------------------------------
-Creative Commons Attribution 2.5
-
-Copyright (c) 2005 Brian Goetz
-Creative Commons Attribution 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
+        --------------------------------------------------------------------------------
+            Creative Commons Attribution 2.5
+        
+            Copyright (c) 2005 Brian Goetz
+                Creative Commons Attribution 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
 License
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
@@ -6309,9 +7652,9 @@ Creative Commons is not a party to this License, and makes no warranty whatsoeve
 Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time.
 Creative Commons may be contacted at http://creativecommons.org/.
 
---------------------------------------------------------------------------------
-Creative Commons Zero v1.0 Universal
-Creative Commons Legal Code
+        --------------------------------------------------------------------------------
+            Creative Commons Zero v1.0 Universal
+                Creative Commons Legal Code
 CC0 1.0 Universal CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
 Statement of Purpose
 The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
@@ -6333,13 +7676,13 @@ For these and/or other purposes and motivations, and without any expectation of 
       c. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
       d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
 
---------------------------------------------------------------------------------
-GNU General Public License v1.0 only
-
-Copyright (c) 2008, 2009, 2010 Mark Harrah, David MacIver
-
-Copyright (c) 2002-2013 EPFL, Lausanne
-GNU GENERAL PUBLIC LICENSE
+        --------------------------------------------------------------------------------
+            GNU General Public License v1.0 only
+        
+            Copyright (c) 2008, 2009, 2010 Mark Harrah, David MacIver
+        
+            Copyright (c) 2002-2013 EPFL, Lausanne
+                GNU GENERAL PUBLIC LICENSE
 Version 1, February 1989
 Copyright (C) 1989 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
@@ -6401,25 +7744,25 @@ Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovis
 <signature of Ty Coon>, 1 April 1989 Ty Coon, President of Vice
 That's all there is to it!
 
---------------------------------------------------------------------------------
-MIT License
-
-Copyright (c) 2014-2015 Stephen Celis (<stephen@stephencelis.com>)
-
-Copyright (c) 2014-2015 Stephen Celis.
-
-Copyright (c) 2013 present by Duktape authors (see AUTHORS.rst)
-
-Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
-
-Copyright (c) 2021 Nick Lockwood. All rights reserved.
-
-Copyright (c) Microsoft Corporation
-
-Copyright (c)  Microsoft Corporation.
-
-Copyright (c) 2022 Auth0, Inc. <support@auth0.com> (http://auth0.com)
-MIT License
+        --------------------------------------------------------------------------------
+            MIT License
+        
+            Copyright (c) 2014-2015 Stephen Celis (<stephen@stephencelis.com>)
+        
+            Copyright (c) 2014-2015 Stephen Celis.
+        
+            Copyright (c) 2013 present by Duktape authors (see AUTHORS.rst)
+        
+            Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
+        
+            Copyright (c) 2021 Nick Lockwood. All rights reserved.
+        
+            Copyright (c) Microsoft Corporation
+        
+            Copyright (c)  Microsoft Corporation.
+        
+            Copyright (c) 2022 Auth0, Inc. <support@auth0.com> (http://auth0.com)
+                MIT License
 Copyright (c) <year> <copyright holders>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -6440,36 +7783,41 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
---------------------------------------------------------------------------------
-No Associated License
+        --------------------------------------------------------------------------------
+            No Associated License
+        
+            Copyright (c)  for 2024 (#1400)
+        
+            Copyright (c)  for 2023
+        
+            Copyright (c) 2010-2024 Deusty, LLC
+        
+            Copyright (c) 2022 Airbnb Inc. All rights reserved.
+        
+            Copyright (c) 2021 Airbnb Inc. All rights reserved.
+        
+            Copyright (c) 2023 Airbnb Inc. All rights reserved.
+        
+            Copyright (c) 2024 Airbnb Inc. All rights reserved.
+        
+            Copyright (c) 2016 Airbnb. All rights reserved.
+        
+            Copyright (c) 2020 Airbnb Inc. All rights reserved.
+        
+            Copyright (c) 2017 Airbnb. All rights reserved.
+        
+            Copyright (c) 2017-2021 Thomas Zoechling, https://www.peakstep.com and the ZIP Foundation project authors.
+        
+            Copyright (c) 2020 YurtvilleProds. All rights reserved.
+        
+            Copyright (c) 2018 Microsoft. All rights reserved.
+        
+            Copyright (c)  Microsoft Corporation.  All rights reserved. Licensed under the MIT License (the “License”).
+                No license text available
 
-Copyright (c) 2010-2024 Deusty, LLC
-
-Copyright (c) 2022 Airbnb Inc. All rights reserved.
-
-Copyright (c) 2021 Airbnb Inc. All rights reserved.
-
-Copyright (c) 2023 Airbnb Inc. All rights reserved.
-
-Copyright (c) 2024 Airbnb Inc. All rights reserved.
-
-Copyright (c) 2016 Airbnb. All rights reserved.
-
-Copyright (c) 2020 Airbnb Inc. All rights reserved.
-
-Copyright (c) 2017 Airbnb. All rights reserved.
-
-Copyright (c) 2017-2021 Thomas Zoechling, https://www.peakstep.com and the ZIP Foundation project authors.
-
-Copyright (c) 2020 YurtvilleProds. All rights reserved.
-
-Copyright (c) 2018 Microsoft. All rights reserved.
-
-Copyright (c)  Microsoft Corporation.  All rights reserved. Licensed under the MIT License (the “License”).
-
---------------------------------------------------------------------------------
-OpenSSL License
-OpenSSL License
+        --------------------------------------------------------------------------------
+            OpenSSL License
+                OpenSSL License
 Copyright (c) 1998-2008 The OpenSSL Project. All rights reserved.
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
    1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -6495,27 +7843,27 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The licence and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. this code cannot simply be copied and put under another distribution licence [including the GNU Public Licence.]
 
---------------------------------------------------------------------------------
-The Unlicense
-This is free and unencumbered software released into the public domain.
+        --------------------------------------------------------------------------------
+            The Unlicense
+                This is free and unencumbered software released into the public domain.
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and
 successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 
---------------------------------------------------------------------------------
-Apache 2.0 with Runtime Library Exception
-## Runtime Library Exception to the Apache 2.0 License: ##
+        --------------------------------------------------------------------------------
+            Apache 2.0 with Runtime Library Exception
+                ## Runtime Library Exception to the Apache 2.0 License: ##
 
     As an exception, if you use this Software to compile your source code and
     portions of this Software are embedded into the binary product as a result,
     you may redistribute such product without providing attribution as would
     otherwise be required by Sections 4(a), 4(b) and 4(d) of the License.
 
---------------------------------------------------------------------------------
-Patent Disclaimer for OpenSSL
-The portions of the attached software ("Contribution") is developed by
+        --------------------------------------------------------------------------------
+            Patent Disclaimer for OpenSSL
+                The portions of the attached software ("Contribution") is developed by
 Nokia Corporation and is licensed pursuant to the OpenSSL open source
 license.
 
@@ -6539,9 +7887,9 @@ OTHER ENTITY BASED ON INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OR
 OTHERWISE.
 
 
---------------------------------------------------------------------------------
-OpenSSL/SSLeay License
-LICENSE ISSUES
+        --------------------------------------------------------------------------------
+            OpenSSL/SSLeay License
+                LICENSE ISSUES
   ==============
 
   The OpenSSL toolkit stays under a dual license, i.e. both the conditions of
@@ -6662,9 +8010,19 @@ derivative of this code cannot be changed.  i.e. this code cannot simply be
 copied and put under another distribution licence
 [including the GNU Public Licence.]
 
+        --------------------------------------------------------------------------------
+            Public Domain
+        
+            Copyright (c) 2008-2024 ZETETIC LLC
+        
+            Copyright (c) 2008 ZETETIC LLC
+        
+            Copyright (c) 2008 - 2013 ZETETIC LLC
+                No license text available
+
+        --------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-Report Generated by FOSSA on 2025-4-8
+Report Generated by FOSSA on 2025-6-5
