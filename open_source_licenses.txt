@@ -11,9 +11,9 @@
 
 The following 3rd-party software packages may be used by or distributed with Omnissa Workspace ONE SDK for iOS. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
-Date generated: 2025-6-5
+Date generated: 2025-6-17
 
-Release: 25.4.1
+Release: 25.06
 
 ================================================================================
 ================================================================================
@@ -1241,7 +1241,7 @@ BSD-3-Clause
 
 --------------------------------------------------------------------------------
 File matches:
-LICENSE
+README.md
 --------------------------------------------------------------------------------
 
 
@@ -1331,7 +1331,7 @@ Apache-2.0, BSL-1.0, BSD-3-Clause, CC-BY-2.5, GPL-1.0-only
 * Apache-2.0 *
 --------------------------------------------------------------------------------
 File matches:
-djinni-master/src/source/ObjcppGenerator.scala
+djinni-master/src/support/org/apache/ivy/plugins/parser/xml/ivy.xsd
 --------------------------------------------------------------------------------
 
 
@@ -1740,9 +1740,9 @@ THE SOFTWARE.
 Dependency Path: 43030/duktape
 
 --------------------------------------------------------------------------------
-Package Title: GoogleAPIClientForREST/CloudIdentity (4.1.0)
+Package Title: GoogleAPIClientForREST/CloudIdentity (4.2.0)
 
-Package Locator: pod+GoogleAPIClientForREST/CloudIdentity$4.1.0
+Package Locator: pod+GoogleAPIClientForREST/CloudIdentity$4.2.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -1963,14 +1963,14 @@ LICENSE
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCloudIdentity?version=4.1.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCloudIdentity?version=4.2.0&amp;org_id=43030
 
 Dependency Path: GoogleAPIClientForREST/CloudIdentity
 
 --------------------------------------------------------------------------------
-Package Title: GoogleAPIClientForREST/Core (4.1.0)
+Package Title: GoogleAPIClientForREST/Core (4.2.0)
 
-Package Locator: pod+GoogleAPIClientForREST/Core$4.1.0
+Package Locator: pod+GoogleAPIClientForREST/Core$4.2.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -2220,7 +2220,7 @@ Sources/Core/Public/GoogleAPIClientForREST/GTLRUtilities.h
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCore?version=4.1.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCore?version=4.2.0&amp;org_id=43030
 
 Dependency Path: GoogleAPIClientForREST/Core
 
@@ -2796,6 +2796,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 * MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
 
 Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -4435,9 +4440,9 @@ Package Download URL: http://production-fossa-core-cocoapods-api/download/JWTDec
 Dependency Path: JWTDecode
 
 --------------------------------------------------------------------------------
-Package Title: lottie-ios (4.5.1)
+Package Title: lottie-ios (4.5.2)
 
-Package Locator: pod+lottie-ios$4.5.1
+Package Locator: pod+lottie-ios$4.5.2
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -4656,7 +4661,33 @@ LICENSE
 
 
 * Other Licenses *
-BSD-2-Clause, MIT
+MIT, BSD-2-Clause
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Sources/Private/EmbeddedLibraries/LRUCache/LRUCache.swift
+--------------------------------------------------------------------------------
+
+
+Copyright (c) 2021 Nick Lockwood. All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 * BSD-2-Clause *
 --------------------------------------------------------------------------------
@@ -4689,45 +4720,19 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-* MIT *
---------------------------------------------------------------------------------
-File matches:
-Sources/Private/EmbeddedLibraries/LRUCache/LRUCache.swift
---------------------------------------------------------------------------------
-
-
-Copyright (c) 2021 Nick Lockwood. All rights reserved.
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 
 * Package Info *
 
 Authors: buba447@gmail.com, cal.stephens@airbnb.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/lottie-ios?version=4.5.1&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/lottie-ios?version=4.5.2&amp;org_id=8617
 
 Dependency Path: lottie-ios
 
 --------------------------------------------------------------------------------
-Package Title: MSAL (1.6.3)
+Package Title: MSAL (2.1.0)
 
-Package Locator: pod+MSAL$1.6.3
+Package Locator: pod+MSAL$2.1.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -4737,7 +4742,7 @@ MIT
 
 --------------------------------------------------------------------------------
 File matches:
-MSAL/IdentityCore/IdentityCore/src/network/response_serializer/preprocessor/MSIDJsonResponsePreprocessor.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDDeviceHeader.m
 --------------------------------------------------------------------------------
 
 
@@ -4770,14 +4775,14 @@ SOFTWARE.
 
 Authors: nugetaad@microsoft.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=1.6.3&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=2.1.0&amp;org_id=
 
 Dependency Path: MSAL
 
 --------------------------------------------------------------------------------
-Package Title: MSAL/app-lib (1.6.3)
+Package Title: MSAL/app-lib (2.1.0)
 
-Package Locator: pod+MSAL/app-lib$1.6.3
+Package Locator: pod+MSAL/app-lib$2.1.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -4941,6 +4946,8 @@ MSAL/IdentityCore/IdentityCore/src/cache/metadata/MSIDMetadataCacheDataSource.h
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheAccessor.h
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheConfig.h
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDCacheConfig.m
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDCachedNonce.h
+MSAL/IdentityCore/IdentityCore/src/cache/MSIDCachedNonce.m
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDExtendedTokenCacheDataSource.h
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDKeychainTokenCache.h
 MSAL/IdentityCore/IdentityCore/src/cache/MSIDKeychainTokenCache.m
@@ -4989,6 +4996,10 @@ MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDSignoutWebRequestCo
 MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDSignoutWebRequestConfiguration.m
 MSAL/IdentityCore/IdentityCore/src/controllers/broker/ios/MSIDBrokerInteractiveController.h
 MSAL/IdentityCore/IdentityCore/src/controllers/broker/ios/MSIDBrokerInteractiveController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/mac/MSIDXpcInteractiveTokenRequestController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/mac/MSIDXpcInteractiveTokenRequestController.m
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/mac/MSIDXpcSilentTokenRequestController.h
+MSAL/IdentityCore/IdentityCore/src/controllers/broker/mac/MSIDXpcSilentTokenRequestController.m
 MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionInteractiveTokenRequestController.h
 MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionInteractiveTokenRequestController.m
 MSAL/IdentityCore/IdentityCore/src/controllers/broker/MSIDSSOExtensionSignoutController.h
@@ -5037,6 +5048,8 @@ MSAL/IdentityCore/IdentityCore/src/MSIDBasicContext.h
 MSAL/IdentityCore/IdentityCore/src/MSIDBasicContext.m
 MSAL/IdentityCore/IdentityCore/src/MSIDBrokerConstants.h
 MSAL/IdentityCore/IdentityCore/src/MSIDBrokerConstants.m
+MSAL/IdentityCore/IdentityCore/src/MSIDBrokerFlightProvider.h
+MSAL/IdentityCore/IdentityCore/src/MSIDBrokerFlightProvider.m
 MSAL/IdentityCore/IdentityCore/src/MSIDCache.h
 MSAL/IdentityCore/IdentityCore/src/MSIDCache.m
 MSAL/IdentityCore/IdentityCore/src/MSIDClientSDKType.h
@@ -5055,6 +5068,8 @@ MSAL/IdentityCore/IdentityCore/src/MSIDErrorConverter.m
 MSAL/IdentityCore/IdentityCore/src/MSIDErrorConverting.h
 MSAL/IdentityCore/IdentityCore/src/MSIDExternalAADCacheSeeder.h
 MSAL/IdentityCore/IdentityCore/src/MSIDExternalAADCacheSeeder.m
+MSAL/IdentityCore/IdentityCore/src/MSIDFlightManager.h
+MSAL/IdentityCore/IdentityCore/src/MSIDFlightManager.m
 MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableFactory.h
 MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableFactory.m
 MSAL/IdentityCore/IdentityCore/src/MSIDJsonSerializableTypes.h
@@ -5126,6 +5141,8 @@ MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryRequest.h
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryRequest.m
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryResponseSerializer.h
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDDRSDiscoveryResponseSerializer.m
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDNonceHttpRequest.h
+MSAL/IdentityCore/IdentityCore/src/network/request/MSIDNonceHttpRequest.m
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDOpenIdConfigurationInfoRequest.h
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDOpenIdConfigurationInfoRequest.m
 MSAL/IdentityCore/IdentityCore/src/network/request/MSIDRefreshTokenGrantRequest.h
@@ -5222,6 +5239,8 @@ MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDBaseToken.h
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDBaseToken.m
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDCredentialType.h
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDCredentialType.m
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDFamilyRefreshToken.h
+MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDFamilyRefreshToken.m
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDIdToken.h
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDIdToken.m
 MSAL/IdentityCore/IdentityCore/src/oauth2/token/MSIDLegacyAccessToken.h
@@ -5252,39 +5271,25 @@ MSAL/IdentityCore/IdentityCore/src/parameters/MSIDRequestParameters+Internal.h
 MSAL/IdentityCore/IdentityCore/src/pop_manager/MSIDDevicePopManager.h
 MSAL/IdentityCore/IdentityCore/src/pop_manager/MSIDDevicePopManager.m
 MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerCryptoProvider.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerCryptoProvider.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerKeyProvider.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerKeyProvider.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerTokenRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDBrokerTokenRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetAccountsRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetAccountsRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDataBaseRequest+Internal.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDeviceInfoRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetDeviceInfoRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetSsoCookiesRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionGetSsoCookiesRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionInteractiveTokenRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionInteractiveTokenRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionOperationRequestDelegate.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionOperationRequestDelegate.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyAssertionRequest.h
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyAssertionRequest.m
-MSAL/IdentityCore/IdentityCore/src/requests/broker/MSIDSSOExtensionPasskeyCredentialRequest.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDAuthorizationCodeResult.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDAuthorizationCodeResult.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDEcdhApv.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDEcdhApv.m
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveAuthorizationCodeRequest.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveAuthorizationCodeRequest.m
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveRequestControlling.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest.m
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDInteractiveTokenRequest+Internal.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDJWECrypto.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDJWECrypto.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDNonceTokenRequest.h
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDNonceTokenRequest.m
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDOIDCSignoutRequest.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDOIDCSignoutRequest.m
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDSilentTokenRequest.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDSilentTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/requests/MSIDSilentTokenRequest+Internal.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDTokenResponseHandler.h
 MSAL/IdentityCore/IdentityCore/src/requests/MSIDTokenResponseHandler.m
 --------------------------------------------------------------------------------
@@ -5319,7 +5324,7 @@ SOFTWARE.
 
 Authors: nugetaad@microsoft.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2Fapp-lib?version=1.6.3&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2Fapp-lib?version=2.1.0&amp;org_id=
 
 Dependency Path: MSAL/app-lib
 
@@ -5877,9 +5882,9 @@ Package Download URL: http://production-fossa-core-cocoapods-api/download/Promis
 Dependency Path: PromisesObjC
 
 --------------------------------------------------------------------------------
-Package Title: SQLCipher (4.7.0)
+Package Title: SQLCipher (4.9.0)
 
-Package Locator: pod+SQLCipher$4.7.0
+Package Locator: pod+SQLCipher$4.9.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -5925,20 +5930,20 @@ public-domain
 
 --------------------------------------------------------------------------------
 File matches:
-sqlite3.c
+sqlite3.h
 --------------------------------------------------------------------------------
 
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.7.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.9.0&amp;org_id=43030
 
 Dependency Path: SQLCipher
 
 --------------------------------------------------------------------------------
-Package Title: SQLCipher/common (4.7.0)
+Package Title: SQLCipher/common (4.9.0)
 
-Package Locator: pod+SQLCipher/common$4.7.0
+Package Locator: pod+SQLCipher/common$4.9.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -5993,14 +5998,14 @@ sqlite3.h
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.7.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.9.0&amp;org_id=43030
 
 Dependency Path: SQLCipher/common
 
 --------------------------------------------------------------------------------
-Package Title: SQLCipher/standard (4.7.0)
+Package Title: SQLCipher/standard (4.9.0)
 
-Package Locator: pod+SQLCipher/standard$4.7.0
+Package Locator: pod+SQLCipher/standard$4.9.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -6044,7 +6049,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.7.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.9.0&amp;org_id=43030
 
 Dependency Path: SQLCipher/standard
 
@@ -7443,8 +7448,6 @@ No license text available
         
             Copyright (c) 2018 Google Inc. All rights reserved.
         
-            Copyright (c) 2014 Dropbox, Inc.
-        
             Copyright (c) 2017 Google
         
             Copyright (c) 2018 Google
@@ -7538,11 +7541,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         
             Copyright (c) 2014 Bogdan Cristea and LTE Engineering Software,
         
+            Copyright (c) 2002-2008 EPFL, Lausanne, unless otherwise specified.
+        
             Copyright (c) 2000-2006 www.hamcrest.org
         
             Copyright (c) 2008, 2009, 2010 Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg
-        
-            Copyright (c) 2002-2008 EPFL, Lausanne, unless otherwise specified.
         
             Copyright (c) 2025 ZETETIC LLC
                 Copyright (c) <year> <owner>
@@ -7589,6 +7592,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         
             Copyright (c) 2016-2018 by Martin Moene
         
+            Copyright (c) 2013-2018 by Martin Moene
+        
             Copyright (c) 2017-2018 by Martin Moene
         
             Copyright (c) 2014-2021 Martin Moene
@@ -7600,8 +7605,6 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
             Copyright (c) 2014-2021 by Martin Moene
         
             Copyright (c) 2021-2021 by Martin Moene
-        
-            Copyright (c) 2013-2018 by Martin Moene
                 Boost Software License - Version 1.0 - August 17th, 2003
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
@@ -8014,10 +8017,6 @@ copied and put under another distribution licence
             Public Domain
         
             Copyright (c) 2008-2024 ZETETIC LLC
-        
-            Copyright (c) 2008 ZETETIC LLC
-        
-            Copyright (c) 2008 - 2013 ZETETIC LLC
                 No license text available
 
         --------------------------------------------------------------------------------
@@ -8025,4 +8024,4 @@ copied and put under another distribution licence
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Report Generated by FOSSA on 2025-6-5
+Report Generated by FOSSA on 2025-6-17

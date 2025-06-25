@@ -19,10 +19,16 @@ let package = Package(
     products: [
         .library(
             name: "AWSDK",
-            targets: ["AWSDK", "FIPS"]),
+            targets: ["CryptoSDK", "AWSDK"])
     ],
+    dependencies: [
+        .package(url: "https://github.com/euc-releases/ws1-crypto-sdk.git", from: "25.06.0")
+    ],
+    
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.04.1/AWSDK.xcframework.zip", checksum:"d4a11fd82a17b6ab49dc0424dc07637aadecc024f6744842583ee2fd9560f819"),
-        .binaryTarget(name: "FIPS", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.04.1/fips.xcframework.zip", checksum:"e289f84164a4086229823b56ecbf5e83330a7bc3cf025bdd4e7c758d7b953272")
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.06.0/AWSDK.xcframework.zip", checksum:"d9cd247c52d7fbc1cd9ca6a3eed7097718f371356a77e33795e0a30d306baa9b"),
+        .target(name: "CryptoSDK",
+                dependencies: [.product(name: "WS1CryptoSDK", package: "ws1-crypto-sdk")]
+               )
     ]
 )
