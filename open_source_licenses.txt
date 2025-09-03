@@ -11,9 +11,9 @@
 
 The following 3rd-party software packages may be used by or distributed with Omnissa Workspace ONE SDK for iOS. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
-Date generated: 2025-6-17
+Date generated: 2025-8-26
 
-Release: 25.06
+Release: 25.08.0
 
 ================================================================================
 ================================================================================
@@ -42,9 +42,9 @@ No first party licenses found for Omnissa Workspace ONE SDK for iOS
 
 
 --------------------------------------------------------------------------------
-Package Title: AppAuth (1.7.6)
+Package Title: AppAuth (2.0.0)
 
-Package Locator: pod+AppAuth$1.7.6
+Package Locator: pod+AppAuth$2.0.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -354,14 +354,14 @@ Sources/AppAuthTV/OIDTVTokenRequest.m
 
 Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth?version=1.7.6&amp;org_id=37890
+Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth?version=2.0.0&amp;org_id=
 
 Dependency Path: AppAuth
 
 --------------------------------------------------------------------------------
-Package Title: AppAuth/Core (1.7.6)
+Package Title: AppAuth/Core (2.0.0)
 
-Package Locator: pod+AppAuth/Core$1.7.6
+Package Locator: pod+AppAuth/Core$2.0.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -639,14 +639,14 @@ Sources/AppAuthCore/OIDURLSessionProvider.m
 
 Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FCore?version=1.7.6&amp;org_id=37890
+Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FCore?version=2.0.0&amp;org_id=37890
 
 Dependency Path: AppAuth/Core
 
 --------------------------------------------------------------------------------
-Package Title: AppAuth/ExternalUserAgent (1.7.6)
+Package Title: AppAuth/ExternalUserAgent (2.0.0)
 
-Package Locator: pod+AppAuth/ExternalUserAgent$1.7.6
+Package Locator: pod+AppAuth/ExternalUserAgent$2.0.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -890,7 +890,7 @@ Sources/AppAuth/macOS/OIDRedirectHTTPHandler.m
 
 Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FExternalUserAgent?version=1.7.6&amp;org_id=37890
+Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth%2FExternalUserAgent?version=2.0.0&amp;org_id=37890
 
 Dependency Path: AppAuth/ExternalUserAgent
 
@@ -1309,7 +1309,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 Authors: robbiehanson@deusty.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/CocoaLumberjack%2FCore?version=3.8.5&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/CocoaLumberjack%2FCore?version=3.8.5&amp;org_id=
 
 Dependency Path: CocoaLumberjack/Core
 
@@ -1331,7 +1331,7 @@ Apache-2.0, BSL-1.0, BSD-3-Clause, CC-BY-2.5, GPL-1.0-only
 * Apache-2.0 *
 --------------------------------------------------------------------------------
 File matches:
-djinni-master/src/support/org/apache/ivy/plugins/parser/xml/ivy.xsd
+djinni-master/extension-libs/jni-exceptions/custom_exception_type.cpp
 --------------------------------------------------------------------------------
 
 
@@ -1740,9 +1740,9 @@ THE SOFTWARE.
 Dependency Path: 43030/duktape
 
 --------------------------------------------------------------------------------
-Package Title: GoogleAPIClientForREST/CloudIdentity (4.2.0)
+Package Title: GoogleAPIClientForREST/CloudIdentity (5.0.0)
 
-Package Locator: pod+GoogleAPIClientForREST/CloudIdentity$4.2.0
+Package Locator: pod+GoogleAPIClientForREST/CloudIdentity$5.0.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -1963,14 +1963,14 @@ LICENSE
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCloudIdentity?version=4.2.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCloudIdentity?version=5.0.0&amp;org_id=43030
 
 Dependency Path: GoogleAPIClientForREST/CloudIdentity
 
 --------------------------------------------------------------------------------
-Package Title: GoogleAPIClientForREST/Core (4.2.0)
+Package Title: GoogleAPIClientForREST/Core (5.0.0)
 
-Package Locator: pod+GoogleAPIClientForREST/Core$4.2.0
+Package Locator: pod+GoogleAPIClientForREST/Core$5.0.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -2220,14 +2220,14 @@ Sources/Core/Public/GoogleAPIClientForREST/GTLRUtilities.h
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCore?version=4.2.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleAPIClientForREST%2FCore?version=5.0.0&amp;org_id=43030
 
 Dependency Path: GoogleAPIClientForREST/Core
 
 --------------------------------------------------------------------------------
-Package Title: GoogleSignIn (8.0.0)
+Package Title: GoogleSignIn (9.0.0)
 
-Package Locator: pod+GoogleSignIn$8.0.0
+Package Locator: pod+GoogleSignIn$9.0.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -2245,8 +2245,10 @@ GoogleSignIn/Sources/GIDAppCheck/UI/GIDActivityIndicatorViewController.h
 GoogleSignIn/Sources/GIDAppCheck/UI/GIDActivityIndicatorViewController.m
 GoogleSignIn/Sources/GIDAuthentication.h
 GoogleSignIn/Sources/GIDAuthentication.m
-GoogleSignIn/Sources/GIDAuthStateMigration.h
-GoogleSignIn/Sources/GIDAuthStateMigration.m
+GoogleSignIn/Sources/GIDAuthStateMigration/Fake/GIDFakeAuthStateMigration.h
+GoogleSignIn/Sources/GIDAuthStateMigration/Fake/GIDFakeAuthStateMigration.m
+GoogleSignIn/Sources/GIDAuthStateMigration/GIDAuthStateMigration.h
+GoogleSignIn/Sources/GIDAuthStateMigration/Implementation/GIDAuthStateMigration.m
 GoogleSignIn/Sources/GIDCallbackQueue.h
 GoogleSignIn/Sources/GIDCallbackQueue.m
 GoogleSignIn/Sources/GIDConfiguration.m
@@ -2547,7 +2549,7 @@ LICENSE
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleSignIn?version=8.0.0&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleSignIn?version=9.0.0&amp;org_id=30344
 
 Dependency Path: GoogleSignIn
 
@@ -2565,7 +2567,7 @@ Apache-2.0, MIT
 * Apache-2.0 *
 --------------------------------------------------------------------------------
 File matches:
-GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h
+GoogleUtilities/Environment/GULAppEnvironmentUtil.m
 --------------------------------------------------------------------------------
 
 
@@ -2796,11 +2798,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 * MIT *
---------------------------------------------------------------------------------
-File matches:
-LICENSE
---------------------------------------------------------------------------------
-
 
 Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2837,7 +2834,33 @@ Package Depth: Transitive
 --------------------------------------------------------------------------------
 
 * Declared Licenses *
-Apache-2.0, MIT
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
+
+Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 * Apache-2.0 *
 --------------------------------------------------------------------------------
@@ -3075,32 +3098,6 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-* MIT *
---------------------------------------------------------------------------------
-File matches:
-LICENSE
---------------------------------------------------------------------------------
-
-
-Copyright (c) 2017 Landon J. Fuller <landon@landonf.org>
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
 * Package Info *
@@ -3668,9 +3665,9 @@ Package Download URL: http://production-fossa-core-cocoapods-api/download/Google
 Dependency Path: GoogleUtilities/UserDefaults
 
 --------------------------------------------------------------------------------
-Package Title: GTMAppAuth (4.1.1)
+Package Title: GTMAppAuth (5.0.0)
 
-Package Locator: pod+GTMAppAuth$4.1.1
+Package Locator: pod+GTMAppAuth$5.0.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -3915,7 +3912,7 @@ LICENSE
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMAppAuth?version=4.1.1&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMAppAuth?version=5.0.0&amp;org_id=
 
 Dependency Path: GTMAppAuth
 
@@ -4730,9 +4727,9 @@ Package Download URL: http://production-fossa-core-cocoapods-api/download/lottie
 Dependency Path: lottie-ios
 
 --------------------------------------------------------------------------------
-Package Title: MSAL (2.1.0)
+Package Title: MSAL (2.2.0)
 
-Package Locator: pod+MSAL$2.1.0
+Package Locator: pod+MSAL$2.2.0
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -4742,7 +4739,7 @@ MIT
 
 --------------------------------------------------------------------------------
 File matches:
-MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDDeviceHeader.m
+MSAL/IdentityCore/IdentityCore/src/broker_operation/response/sso_cookies_response/MSIDCredentialHeader.h
 --------------------------------------------------------------------------------
 
 
@@ -4775,14 +4772,14 @@ SOFTWARE.
 
 Authors: nugetaad@microsoft.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=2.1.0&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=2.2.0&amp;org_id=43030
 
 Dependency Path: MSAL
 
 --------------------------------------------------------------------------------
-Package Title: MSAL/app-lib (2.1.0)
+Package Title: MSAL/app-lib (2.2.0)
 
-Package Locator: pod+MSAL/app-lib$2.1.0
+Package Locator: pod+MSAL/app-lib$2.2.0
 
 Package Depth: Transitive
 --------------------------------------------------------------------------------
@@ -5324,7 +5321,7 @@ SOFTWARE.
 
 Authors: nugetaad@microsoft.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2Fapp-lib?version=2.1.0&amp;org_id=
+Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2Fapp-lib?version=2.2.0&amp;org_id=43030
 
 Dependency Path: MSAL/app-lib
 
@@ -5894,7 +5891,7 @@ BSD-3-Clause
 
 --------------------------------------------------------------------------------
 File matches:
-LICENSE.txt
+sqlite3.c
 --------------------------------------------------------------------------------
 
 
@@ -5930,13 +5927,13 @@ public-domain
 
 --------------------------------------------------------------------------------
 File matches:
-sqlite3.h
+sqlite3.c
 --------------------------------------------------------------------------------
 
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.9.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher?version=4.9.0&amp;org_id=
 
 Dependency Path: SQLCipher
 
@@ -5998,7 +5995,7 @@ sqlite3.h
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.9.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fcommon?version=4.9.0&amp;org_id=
 
 Dependency Path: SQLCipher/common
 
@@ -6049,7 +6046,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.9.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SQLCipher%2Fstandard?version=4.9.0&amp;org_id=
 
 Dependency Path: SQLCipher/standard
 
@@ -6170,7 +6167,7 @@ For more information, please refer to <http://unlicense.org/>
 
 Authors: val@packett.cool, hamchapman@gmail.com
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/SwiftCBOR?version=0.5.0&amp;org_id=43030
+Package Download URL: http://production-fossa-core-cocoapods-api/download/SwiftCBOR?version=0.5.0&amp;org_id=
 
 Dependency Path: SwiftCBOR
 
@@ -7543,11 +7540,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         
             Copyright (c) 2002-2008 EPFL, Lausanne, unless otherwise specified.
         
-            Copyright (c) 2000-2006 www.hamcrest.org
-        
             Copyright (c) 2008, 2009, 2010 Steven Blundy, Josh Cough, Mark Harrah, Stuart Roebuck, Tony Sloane, Vesa Vilhonen, Jason Zaugg
         
+            Copyright (c) 2000-2006 www.hamcrest.org
+        
             Copyright (c) 2025 ZETETIC LLC
+        
+            Copyright (c) 2008-2024 ZETETIC LLC
+        
+            Copyright (c) 2008 ZETETIC LLC
+        
+            Copyright (c) 2008 - 2013 ZETETIC LLC
                 Copyright (c) <year> <owner>
 All rights reserved.
 
@@ -7592,19 +7595,19 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         
             Copyright (c) 2016-2018 by Martin Moene
         
-            Copyright (c) 2013-2018 by Martin Moene
+            Copyright (c) 2014-2021 by Martin Moene
         
-            Copyright (c) 2017-2018 by Martin Moene
-        
-            Copyright (c) 2014-2021 Martin Moene
+            Copyright (c) 2021-2021 by Martin Moene
         
             Copyright (c) 2019-2019 by Martin Moene
         
             Copyright (c) 2014 by Martin Moene
         
-            Copyright (c) 2014-2021 by Martin Moene
+            Copyright (c) 2017-2018 by Martin Moene
         
-            Copyright (c) 2021-2021 by Martin Moene
+            Copyright (c) 2014-2021 Martin Moene
+        
+            Copyright (c) 2013-2018 by Martin Moene
                 Boost Software License - Version 1.0 - August 17th, 2003
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
@@ -8017,6 +8020,10 @@ copied and put under another distribution licence
             Public Domain
         
             Copyright (c) 2008-2024 ZETETIC LLC
+        
+            Copyright (c) 2008 ZETETIC LLC
+        
+            Copyright (c) 2008 - 2013 ZETETIC LLC
                 No license text available
 
         --------------------------------------------------------------------------------
@@ -8024,4 +8031,4 @@ copied and put under another distribution licence
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Report Generated by FOSSA on 2025-6-17
+Report Generated by FOSSA on 2025-8-26

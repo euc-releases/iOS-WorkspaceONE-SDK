@@ -26,7 +26,7 @@ let package = Package(
     ],
     
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.06.0/AWSDK.xcframework.zip", checksum:"d9cd247c52d7fbc1cd9ca6a3eed7097718f371356a77e33795e0a30d306baa9b"),
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.08.0/AWSDK.xcframework.zip", checksum:"aeb3c3c631a9e2de85fd926f579632ce96c71a6e5e9587de241b52d691721ad6"),
         .target(name: "CryptoSDK",
                 dependencies: [.product(name: "WS1CryptoSDK", package: "ws1-crypto-sdk")]
                )
