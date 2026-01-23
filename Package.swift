@@ -5,7 +5,7 @@
 //  WorkspaceOneSDK
 //
 /*
- * Copyright (c) 2025 Omnissa, LLC. All rights reserved.
+ * Copyright (c) 2026 Omnissa, LLC. All rights reserved.
  * This product is protected by copyright and intellectual property laws in the
  * United States and other countries as well as by international treaties.
  * -- Omnissa Public
@@ -26,7 +26,7 @@ let package = Package(
     ],
     
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/25.11.0/AWSDK.xcframework.zip", checksum:"9042e6c35e848289955c83623270cf73e7a1a3195accdad67c4c05cdaecc3bc3"),
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/26.01.0/AWSDK.xcframework.zip", checksum:"86132d6242c035ade016a5d2cdba431d9f26cdf41ae9aa12932acd421817a5db"),
         .target(name: "CryptoSDK",
                 dependencies: [.product(name: "WS1CryptoSDK", package: "ws1-crypto-sdk")]
                )
