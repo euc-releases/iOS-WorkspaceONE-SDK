@@ -11,9 +11,9 @@
 
 The following 3rd-party software packages may be used by or distributed with Omnissa Workspace ONE SDK for iOS. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
-Date generated: 2026-1-15
+Date generated: 2026-2-18
 
-Release: 26.01.0
+Release: 26.02.0
 
 ================================================================================
 ================================================================================
@@ -54,7 +54,37 @@ Apache-2.0
 
 --------------------------------------------------------------------------------
 File matches:
+Examples/Example-iOS_ObjC-Carthage/Example_Extension/TodayViewController.h
+Examples/Example-iOS_ObjC-Carthage/Example_Extension/TodayViewController.m
+Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.h
+Examples/Example-iOS_ObjC-Carthage/Source/AppAuthExampleViewController.m
+Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.h
+Examples/Example-iOS_ObjC-Carthage/Source/AppDelegate.m
+Examples/Example-iOS_ObjC-Carthage/Source/main.m
+Examples/Example-iOS_ObjC/Example-iOS_ObjC_Extension/TodayViewController.h
+Examples/Example-iOS_ObjC/Example-iOS_ObjC_Extension/TodayViewController.m
+Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.h
+Examples/Example-iOS_ObjC/Source/AppAuthExampleViewController.m
+Examples/Example-iOS_ObjC/Source/AppDelegate.h
+Examples/Example-iOS_ObjC/Source/AppDelegate.m
+Examples/Example-iOS_ObjC/Source/main.m
+Examples/Example-iOS_ObjC/Tests/AppAuthExampleTests.m
+Examples/Example-iOS_Swift-Carthage/Example_Extension/TodayViewController.swift
+Examples/Example-iOS_Swift-Carthage/Source/AppAuthExampleViewController.swift
+Examples/Example-iOS_Swift-Carthage/Source/AppDelegate.swift
+Examples/Example-macOS/Source/AppAuthExampleViewController.h
+Examples/Example-macOS/Source/AppAuthExampleViewController.m
+Examples/Example-macOS/Source/AppDelegate.h
+Examples/Example-macOS/Source/AppDelegate.m
+Examples/Example-macOS/Source/main.m
+Examples/Example-macOS/Tests/AppAuthExampleTests.m
+Examples/Example-tvOS/Example-tvOS/AppAuthTVExampleViewController.h
+Examples/Example-tvOS/Example-tvOS/AppAuthTVExampleViewController.m
+Examples/Example-tvOS/Example-tvOS/AppDelegate.h
+Examples/Example-tvOS/Example-tvOS/AppDelegate.m
+Examples/Example-tvOS/Example-tvOS/main.m
 LICENSE
+Package.swift
 Sources/AppAuth.h
 Sources/AppAuth/iOS/OIDAuthorizationService+IOS.h
 Sources/AppAuth/iOS/OIDAuthorizationService+IOS.m
@@ -142,6 +172,47 @@ Sources/AppAuthTV/OIDTVServiceConfiguration.h
 Sources/AppAuthTV/OIDTVServiceConfiguration.m
 Sources/AppAuthTV/OIDTVTokenRequest.h
 Sources/AppAuthTV/OIDTVTokenRequest.m
+Sources/CoreFramework/AppAuthCore.h
+Sources/Framework/AppAuth.h
+Sources/TVFramework/AppAuthTV.h
+UnitTests/AppAuthTV/OIDTVAuthorizationRequestTests.h
+UnitTests/AppAuthTV/OIDTVAuthorizationRequestTests.m
+UnitTests/AppAuthTV/OIDTVAuthorizationResponseTests.h
+UnitTests/AppAuthTV/OIDTVAuthorizationResponseTests.m
+UnitTests/AppAuthTV/OIDTVTokenRequestTests.h
+UnitTests/AppAuthTV/OIDTVTokenRequestTests.m
+UnitTests/OIDAppAuthTests-Bridging-Header.h
+UnitTests/OIDAuthorizationRequestTests.h
+UnitTests/OIDAuthorizationRequestTests.m
+UnitTests/OIDAuthorizationResponseTests.h
+UnitTests/OIDAuthorizationResponseTests.m
+UnitTests/OIDAuthStateTests.h
+UnitTests/OIDAuthStateTests.m
+UnitTests/OIDEndSessionRequestTests.h
+UnitTests/OIDEndSessionRequestTests.m
+UnitTests/OIDGrantTypesTests.m
+UnitTests/OIDRegistrationRequestTests.h
+UnitTests/OIDRegistrationRequestTests.m
+UnitTests/OIDRegistrationResponseTests.h
+UnitTests/OIDRegistrationResponseTests.m
+UnitTests/OIDResponseTypesTests.m
+UnitTests/OIDRPProfileCode.h
+UnitTests/OIDRPProfileCode.m
+UnitTests/OIDScopesTests.m
+UnitTests/OIDServiceConfigurationTests.h
+UnitTests/OIDServiceConfigurationTests.m
+UnitTests/OIDServiceDiscoveryTests.h
+UnitTests/OIDServiceDiscoveryTests.m
+UnitTests/OIDSwiftTests.swift
+UnitTests/OIDTokenRequestTests.h
+UnitTests/OIDTokenRequestTests.m
+UnitTests/OIDTokenResponseTests.h
+UnitTests/OIDTokenResponseTests.m
+UnitTests/OIDTokenUtilitiesTests.m
+UnitTests/OIDURLQueryComponentTests.h
+UnitTests/OIDURLQueryComponentTests.m
+UnitTests/OIDURLQueryComponentTestsIOS7.m
+UnitTests/OIDURLSessionProviderTests.m
 --------------------------------------------------------------------------------
 
 
@@ -352,9 +423,9 @@ Sources/AppAuthTV/OIDTVTokenRequest.m
 
 * Package Info *
 
-Authors: wdenniss@google.com, stevewright@google.com, julien.bodet92@gmail.com
+Authors: William Denniss &lt;wdenniss@google.com&gt;, Steven E Wright &lt;stevewright@google.com&gt;, Julien Bodet &lt;julien.bodet92@gmail.com&gt;
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/AppAuth?version=2.0.0&amp;org_id=
+Package Download URL: https://github.com/openid/AppAuth-iOS/archive/refs/tags/2.0.0.tar.gz
 
 Dependency Path: AppAuth
 
@@ -2335,7 +2406,47 @@ GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.h
 GoogleSignIn/Tests/Unit/OIDTokenResponse+Testing.m
 GoogleSignIn/Tests/Unit/UIAlertAction+Testing.h
 GoogleSignIn/Tests/Unit/UIAlertAction+Testing.m
+GoogleSignInSwift/Sources/GoogleSignInButton.swift
+GoogleSignInSwift/Sources/GoogleSignInButtonBundleExtensions.swift
+GoogleSignInSwift/Sources/GoogleSignInButtonStrings.swift
+GoogleSignInSwift/Sources/GoogleSignInButtonStyling.swift
+GoogleSignInSwift/Sources/GoogleSignInButtonViewModel.swift
+GoogleSignInSwift/Tests/Unit/GoogleSignInButtonExtensionsTests.swift
+GoogleSignInSwift/Tests/Unit/GoogleSignInButtonStylingTests.swift
 LICENSE
+Package.swift
+Samples/ObjC/SignInSample/Source/AppDelegate.h
+Samples/ObjC/SignInSample/Source/AppDelegate.m
+Samples/ObjC/SignInSample/Source/AuthInspectorViewController.h
+Samples/ObjC/SignInSample/Source/AuthInspectorViewController.m
+Samples/ObjC/SignInSample/Source/DataPickerState.h
+Samples/ObjC/SignInSample/Source/DataPickerState.m
+Samples/ObjC/SignInSample/Source/DataPickerViewController.h
+Samples/ObjC/SignInSample/Source/DataPickerViewController.m
+Samples/ObjC/SignInSample/Source/Empty.swift
+Samples/ObjC/SignInSample/Source/main.m
+Samples/ObjC/SignInSample/Source/SignInViewController.h
+Samples/ObjC/SignInSample/Source/SignInViewController.m
+Samples/Swift/AppAttestExample/AppAttestExample/AppAttestExampleApp.swift
+Samples/Swift/AppAttestExample/AppAttestExample/AppCheckSecretReader.swift
+Samples/Swift/AppAttestExample/AppAttestExample/BirthdayLoader.swift
+Samples/Swift/AppAttestExample/AppAttestExample/ContentView.swift
+Samples/Swift/AppAttestExample/AppAttestExample/Secrets/AppCheckDefaultSecrets.xcconfig
+Samples/Swift/AppAttestExample/AppAttestExampleTests/AppAttestExampleTests.swift
+Samples/Swift/DaysUntilBirthday/DaysUntilBirthdayUITests(iOS)/Credential.swift
+Samples/Swift/DaysUntilBirthday/DaysUntilBirthdayUITests(iOS)/DaysUntilBirthdayUITests_iOS.swift
+Samples/Swift/DaysUntilBirthday/iOS/UserProfileView.swift
+Samples/Swift/DaysUntilBirthday/Shared/DaysUntilBirthday.swift
+Samples/Swift/DaysUntilBirthday/Shared/Models/Birthday.swift
+Samples/Swift/DaysUntilBirthday/Shared/Services/BirthdayLoader.swift
+Samples/Swift/DaysUntilBirthday/Shared/Services/GoogleSignInAuthenticator.swift
+Samples/Swift/DaysUntilBirthday/Shared/Services/UserProfileImageLoader.swift
+Samples/Swift/DaysUntilBirthday/Shared/ViewModels/AuthenticationViewModel.swift
+Samples/Swift/DaysUntilBirthday/Shared/ViewModels/BirthdayViewModel.swift
+Samples/Swift/DaysUntilBirthday/Shared/Views/BirthdayView.swift
+Samples/Swift/DaysUntilBirthday/Shared/Views/ContentView.swift
+Samples/Swift/DaysUntilBirthday/Shared/Views/SignInView.swift
+Samples/Swift/DaysUntilBirthday/Shared/Views/UserProfileImageView.swift
 --------------------------------------------------------------------------------
 
 
@@ -2546,7 +2657,9 @@ LICENSE
 
 * Package Info *
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/GoogleSignIn?version=9.0.0&amp;org_id=
+Authors: Google LLC
+
+Package Download URL: https://github.com/google/GoogleSignIn-iOS/archive/refs/tags/9.0.0.tar.gz
 
 Dependency Path: GoogleSignIn
 
@@ -3909,6 +4022,8 @@ LICENSE
 
 * Package Info *
 
+Authors: Google LLC
+
 Package Download URL: http://production-fossa-core-cocoapods-api/download/GTMAppAuth?version=5.0.0&amp;org_id=
 
 Dependency Path: GTMAppAuth
@@ -4427,9 +4542,9 @@ SOFTWARE.
 
 * Package Info *
 
-Authors: support@auth0.com, rita.zerrizuela@auth0.com
+Authors: Auth0 &lt;support@auth0.com&gt;, Rita Zerrizuela &lt;rita.zerrizuela@auth0.com&gt;
 
-Package Download URL: http://production-fossa-core-cocoapods-api/download/JWTDecode?version=3.3.0&amp;org_id=
+Package Download URL: https://github.com/auth0/JWTDecode.swift/archive/refs/tags/3.3.0.tar.gz
 
 Dependency Path: JWTDecode
 
@@ -4717,7 +4832,7 @@ SOFTWARE.
 
 * Package Info *
 
-Authors: buba447@gmail.com, cal.stephens@airbnb.com
+Authors: Brandon Withrow &lt;buba447@gmail.com&gt;, Cal Stephens &lt;cal.stephens@airbnb.com&gt;
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/lottie-ios?version=4.5.2&amp;org_id=
 
@@ -4736,7 +4851,7 @@ MIT
 
 --------------------------------------------------------------------------------
 File matches:
-MSAL/IdentityCore/IdentityCore/src/broker_operation/request/silent_token_request/MSIDBrokerOperationSilentTokenRequest.m
+MSAL/IdentityCore/IdentityCore/src/configuration/webview/MSIDBaseWebRequestConfiguration.m
 --------------------------------------------------------------------------------
 
 
@@ -4767,7 +4882,7 @@ SOFTWARE.
 
 * Package Info *
 
-Authors: nugetaad@microsoft.com
+Authors: Microsoft &lt;nugetaad@microsoft.com&gt;
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL?version=2.6.0&amp;org_id=37890
 
@@ -5323,9 +5438,9 @@ Package Download URL: http://production-fossa-core-cocoapods-api/download/MSAL%2
 Dependency Path: MSAL/app-lib
 
 --------------------------------------------------------------------------------
-Package Title: OpenSSL (3.4.0)
+Package Title: OpenSSL (3.4.4)
 
-Package Locator: user+616132$3.4.0
+Package Locator: user+616132$3.4.4
 
 Package Depth: Direct
 --------------------------------------------------------------------------------
@@ -6144,7 +6259,7 @@ For more information, please refer to <http://unlicense.org/>
 
 * Package Info *
 
-Authors: val@packett.cool, hamchapman@gmail.com
+Authors: Ham &lt;hamchapman@gmail.com&gt;, Val &lt;val@packett.cool&gt;
 
 Package Download URL: http://production-fossa-core-cocoapods-api/download/SwiftCBOR?version=0.6.0&amp;org_id=43030
 
@@ -7564,19 +7679,19 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         
             Copyright (c) 2016-2018 by Martin Moene
         
+            Copyright (c) 2017-2018 by Martin Moene
+        
             Copyright (c) 2014-2021 Martin Moene
         
             Copyright (c) 2014-2021 by Martin Moene
         
-            Copyright (c) 2021-2021 by Martin Moene
-        
             Copyright (c) 2019-2019 by Martin Moene
         
-            Copyright (c) 2013-2018 by Martin Moene
-        
-            Copyright (c) 2017-2018 by Martin Moene
-        
             Copyright (c) 2014 by Martin Moene
+        
+            Copyright (c) 2021-2021 by Martin Moene
+        
+            Copyright (c) 2013-2018 by Martin Moene
                 Boost Software License - Version 1.0 - August 17th, 2003
 Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the "Software") to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:
 The copyright notices in the Software and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Software, in whole or in part, and all derivative works of the Software, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor.
@@ -7761,11 +7876,21 @@ SOFTWARE.
         --------------------------------------------------------------------------------
             No Associated License
         
+            Copyright (c)  purposes.
+        
+            Copyright (c) 2016 Google. All rights reserved.</string>
+        
+            Copyright (c) 2017 The AppAuth Authors</string>
+        
             Copyright (c)  for 2024 (#1400)
         
             Copyright (c)  for 2023
         
             Copyright (c) 2010-2024 Deusty, LLC
+        
+            Copyright (c)  to your contribution;
+        
+            Copyright (c) 2021 Apple Inc. and the Swift project authors
         
             Copyright (c) 2022 Airbnb Inc. All rights reserved.
         
@@ -7990,4 +8115,4 @@ copied and put under another distribution licence
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Report Generated by FOSSA on 2026-1-15
+Report Generated by FOSSA on 2026-2-18
