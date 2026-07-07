@@ -15,18 +15,18 @@ import PackageDescription
 
 let package = Package(
     name: "WorkspaceOneSDK",
-    platforms: [.iOS(.v16)],
+    platforms: [.iOS(.v17)],
     products: [
         .library(
             name: "AWSDK",
             targets: ["CryptoSDK", "AWSDK"])
     ],
     dependencies: [
-        .package(url: "https://github.com/euc-releases/ws1-crypto-sdk.git", from: "25.06.0")
+        .package(url: "https://github.com/euc-releases/ws1-crypto-sdk.git", from: "26.06.0")
     ],
     
     targets: [
-        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/26.03.0/AWSDK.xcframework.zip", checksum:"048999d31eb0d9f4c4470cacc89d6efd7d9657f09c5fa686e4fc682d2a091533"),
+        .binaryTarget(name: "AWSDK", url: "https://github.com/euc-releases/iOS-WorkspaceONE-SDK/releases/download/26.06.0/AWSDK.xcframework.zip", checksum:"efe1398119f6587ebb7a3f04a7c6d43830d043529a8265568785ec22dbb0f030"),
         .target(name: "CryptoSDK",
                 dependencies: [.product(name: "WS1CryptoSDK", package: "ws1-crypto-sdk")]
                )
